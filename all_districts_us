@@ -1,0 +1,911 @@
+,index,Candidate,Raised,Spent,Cash on Hand,Last Report,state,district,name,party,incumbent,winner
+0,0,Jerry Carl (R)  • Winner,"$1,971,321","$1,859,349","$111,973",12/31/2020,AL,1,Jerry Carl ,R,False,True
+1,1,James Averhart (D),"$80,095","$78,973","$1,122",12/31/2020,AL,1,James Averhart ,D,False,False
+2,0,Barry Moore (R)  • Winner,"$650,807","$669,368","-$13,633",12/31/2020,AL,2,Barry Moore ,R,False,True
+3,1,Phyllis Harvey-Hall (D),"$56,050","$55,988",$0,12/31/2020,AL,2,Phyllis Harvey-Hall ,D,False,False
+4,0,Mike D Rogers (R)  • Incumbent • Winner,"$1,193,111","$1,218,564","$502,234",12/31/2020,AL,3,Mike D Rogers ,R,True,True
+5,1,Adia Winfrey (D),"$50,273","$40,971",$43,12/31/2020,AL,3,Adia Winfrey ,D,False,False
+6,0,Robert B Aderholt (R)  • Incumbent • Winner,"$1,255,076","$1,323,812","$647,004",12/31/2020,AL,4,Robert B Aderholt ,R,True,True
+7,1,Rick Neighbors (D),"$46,068","$45,034","$1,034",12/31/2020,AL,4,Rick Neighbors ,D,False,False
+8,0,Mo Brooks (R)  • Incumbent • Winner,"$655,365","$210,045","$1,137,501",12/31/2020,AL,5,Mo Brooks ,R,True,True
+9,0,Gary Palmer (R)  • Incumbent • Winner,"$907,219","$909,082","$370,688",12/31/2020,AL,6,Gary Palmer ,R,True,True
+10,0,Terri Sewell (D)  • Incumbent • Winner,"$2,168,165","$1,495,957","$2,243,480",12/31/2020,AL,7,Terri Sewell ,D,True,True
+11,0,Don Young (R)  • Incumbent • Winner,"$1,922,901","$1,790,448","$249,173",12/31/2020,AK,1,Don Young ,R,True,True
+12,1,Alyse Galvin (I),"$5,178,452","$5,088,103","$96,594",12/31/2020,AK,1,Alyse Galvin ,I,False,False
+13,0,Tom O'Halleran (D)  • Incumbent • Winner,"$3,381,353","$3,324,138","$63,147",12/31/2020,AZ,1,Tom O'Halleran ,D,True,True
+14,1,Tiffany Shedd (R),"$1,675,618","$1,615,704","$63,347",12/31/2020,AZ,1,Tiffany Shedd ,R,False,False
+15,0,Ann Kirkpatrick (D)  • Incumbent • Winner,"$1,849,862","$1,384,765","$537,288",12/31/2020,AZ,2,Ann Kirkpatrick ,D,True,True
+16,1,Brandon Martin (R),"$374,821","$381,067","-$7,418",12/31/2020,AZ,2,Brandon Martin ,R,False,False
+17,0,Raul M Grijalva (D)  • Incumbent • Winner,"$843,560","$655,507","$226,209",12/31/2020,AZ,3,Raul M Grijalva ,D,True,True
+18,1,Daniel Wood (R),"$41,422","$41,962",-$539,11/23/2020,AZ,3,Daniel Wood ,R,False,False
+19,0,Paul Gosar (R)  • Incumbent • Winner,"$622,151","$729,892","$13,459",12/31/2020,AZ,4,Paul Gosar ,R,True,True
+20,1,Delina DiSanto (D),"$77,168","$79,758","$5,974",12/31/2020,AZ,4,Delina DiSanto ,D,False,False
+21,0,Andy Biggs (R)  • Incumbent • Winner,"$1,602,181","$1,236,380","$651,047",12/31/2020,AZ,5,Andy Biggs ,R,True,True
+22,1,Joan Greene (D),"$356,069","$209,789","$147,117",12/31/2020,AZ,5,Joan Greene ,D,False,False
+23,0,David Schweikert (R)  • Incumbent • Winner,"$2,265,329","$2,249,979","$59,582",12/31/2020,AZ,6,David Schweikert ,R,True,True
+24,1,Hiral Tipirneni (D),"$6,301,073","$6,366,702","$34,973",12/31/2020,AZ,6,Hiral Tipirneni ,D,False,False
+25,2,Tom Lewellen (I),"$11,685","$11,000","-$3,293",12/31/2020,AZ,6,Tom Lewellen ,I,False,False
+26,0,Ruben Gallego (D)  • Incumbent • Winner,"$1,811,754","$1,653,961","$616,971",12/31/2020,AZ,7,Ruben Gallego ,D,True,True
+27,1,Josh Barnett (R),"$28,093","$17,883","$10,210",10/14/2020,AZ,7,Josh Barnett ,R,False,False
+28,0,Debbie Lesko (R)  • Incumbent • Winner,"$1,605,245","$987,453","$688,633",12/31/2020,AZ,8,Debbie Lesko ,R,True,True
+29,1,Michael Muscato (D),"$357,906","$347,734","$10,172",12/31/2020,AZ,8,Michael Muscato ,D,False,False
+30,0,Greg Stanton (D)  • Incumbent • Winner,"$2,001,619","$1,001,350","$1,044,655",12/31/2020,AZ,9,Greg Stanton ,D,True,True
+31,1,Dave Giles (R),"$130,480","$129,935",$546,12/31/2020,AZ,9,Dave Giles ,R,False,False
+32,0,Rick Crawford (R)  • Incumbent • Winner,"$966,801","$1,095,518","$182,708",12/31/2020,AR,1,Rick Crawford ,R,True,True
+33,0,French Hill (R)  • Incumbent • Winner,"$3,384,490","$3,020,491","$410,779",12/31/2020,AR,2,French Hill ,R,True,True
+34,1,Joyce Elliott (D),"$3,482,463","$3,478,733","$3,730",12/31/2020,AR,2,Joyce Elliott ,D,False,False
+35,0,Steve Womack (R)  • Incumbent • Winner,"$1,127,158","$923,120","$1,363,257",12/31/2020,AR,3,Steve Womack ,R,True,True
+36,1,Celeste Williams (D) (D),"$355,294","$355,294",$0,11/30/2020,AR,3,Celeste Williams ,D,False,False
+37,0,Bruce Westerman (R)  • Incumbent • Winner,"$1,407,770","$1,102,573","$976,806",12/31/2020,AR,4,Bruce Westerman ,R,True,True
+38,1,William Hanson (D),"$109,767","$111,683","-$1,916",12/31/2020,AR,4,William Hanson ,D,False,False
+39,0,Doug LaMalfa (R)  • Incumbent • Winner,"$1,219,556","$1,155,945","$91,242",12/31/2020,CA,1,Doug LaMalfa ,R,True,True
+40,1,Audrey Denney (D),"$2,461,769","$2,457,661","$4,601",12/31/2020,CA,1,Audrey Denney ,D,False,False
+41,0,Jared Huffman (D)  • Incumbent • Winner,"$899,419","$797,753","$922,442",12/31/2020,CA,2,Jared Huffman ,D,True,True
+42,1,Dale Mensing (R),"$5,921","$2,197","$5,391",12/31/2020,CA,2,Dale Mensing ,R,False,False
+43,0,John Garamendi (D)  • Incumbent • Winner,"$1,054,066","$667,320","$1,111,122",12/31/2020,CA,3,John Garamendi ,D,True,True
+44,1,Tamika Hamilton (R),"$397,099","$384,584","$12,515",12/31/2020,CA,3,Tamika Hamilton ,R,False,False
+45,0,Tom McClintock (R)  • Incumbent • Winner,"$2,053,363","$2,107,248","$171,001",12/31/2020,CA,4,Tom McClintock ,R,True,True
+46,1,Brynne Kennedy (D),"$3,006,020","$3,002,532","$3,489",12/31/2020,CA,4,Brynne Kennedy ,D,False,False
+47,0,Mike Thompson (D)  • Incumbent • Winner,"$2,208,136","$2,022,751","$1,746,172",12/31/2020,CA,5,Mike Thompson ,D,True,True
+48,0,Doris Matsui (D)  • Incumbent • Winner,"$1,019,605","$1,073,529","$269,411",12/31/2020,CA,6,Doris Matsui ,D,True,True
+49,1,Christine Bish (R),"$44,772","$44,554",$965,12/31/2020,CA,6,Christine Bish ,R,False,False
+50,0,Ami Bera (D)  • Incumbent • Winner,"$1,757,748","$1,053,444","$2,029,018",12/31/2020,CA,7,Ami Bera ,D,True,True
+51,1,Buzz Patterson (R),"$43,876","$29,614","$3,532",12/31/2019,CA,7,Buzz Patterson ,R,False,False
+52,0,Jay Obernolte (R)  • Winner,"$1,861,647","$1,792,064","$69,583",12/31/2020,CA,8,Jay Obernolte ,R,False,True
+53,1,Chris Bubser (D),"$1,858,001","$1,856,613","$1,388",12/31/2020,CA,8,Chris Bubser ,D,False,False
+54,0,Jerry McNerney (D)  • Incumbent • Winner,"$1,177,959","$1,112,543","$234,173",12/31/2020,CA,9,Jerry McNerney ,D,True,True
+55,1,Tony Amador (R),"$52,175","$52,175",$0,12/31/2020,CA,9,Tony Amador ,R,False,False
+56,0,Diana DeGette (D)  • Incumbent • Winner,"$1,201,026","$1,077,130","$277,373",12/31/2020,CO,1,Diana DeGette ,D,True,True
+57,0,Joseph Neguse (D)  • Incumbent • Winner,"$1,353,325","$674,602","$893,504",12/31/2020,CO,2,Joseph Neguse ,D,True,True
+58,1,Charles Winn (R),"$98,338","$98,338",$0,12/31/2020,CO,2,Charles Winn ,R,False,False
+59,2,Alex Johnson (I),"$4,782","$4,093",$689,09/30/2020,CO,2,Alex Johnson ,I,False,False
+60,0,Diane Mitsch Bush (D),"$5,008,274","$4,984,238","$28,455",12/31/2020,CO,3,Diane Mitsch Bush ,D,False,True
+61,1,Lauren Boebert (R)  • Winner,"$2,989,510","$2,632,716","$356,794",12/31/2020,CO,3,Lauren Boebert ,R,False,False
+62,2,Chris Milton (3),"$12,012","$12,012",$0,11/04/2020,CO,3,Chris Milton ,3,False,False
+63,0,Ken Buck (R)  • Incumbent • Winner,"$478,984","$539,393","$290,666",12/31/2020,CO,4,Ken Buck ,R,True,True
+64,1,Ike McCorkle (D),"$369,871","$217,398","$152,473",12/31/2020,CO,4,Ike McCorkle ,D,False,False
+65,0,Douglas L Lamborn (R)  • Incumbent • Winner,"$540,712","$329,011","$428,777",12/31/2020,CO,5,Douglas L Lamborn ,R,True,True
+66,1,Jillian Freeland (D),"$185,255","$175,548",$553,12/31/2020,CO,5,Jillian Freeland ,D,False,False
+67,2,Rebecca Keltie (3),"$2,552","$1,495","$2,596",09/11/2020,CO,5,Rebecca Keltie ,3,False,False
+68,0,Jason Crow (D)  • Incumbent • Winner,"$4,136,137","$2,892,443","$1,289,005",12/31/2020,CO,6,Jason Crow ,D,True,True
+69,1,Steven House (R),"$1,200,056","$1,198,044","$2,012",12/31/2020,CO,6,Steven House ,R,False,False
+70,2,Jaimie Kulikowski (3),"$72,293","$110,645",$0,12/31/2020,CO,6,Jaimie Kulikowski ,3,False,False
+71,0,Ed Perlmutter (D)  • Incumbent • Winner,"$1,632,262","$1,339,482","$1,053,696",12/31/2020,CO,7,Ed Perlmutter ,D,True,True
+72,1,Casper Stockham (R),"$147,872","$147,872",$0,12/31/2020,CO,7,Casper Stockham ,R,False,False
+73,2,Anthony Malgieri (I),"$1,930","$1,958",$15,08/20/2020,CO,7,Anthony Malgieri ,I,False,False
+74,0,John Larson (D)  • Incumbent • Winner,"$1,377,238","$1,323,690","$422,375",12/31/2020,CT,1,John Larson ,D,True,True
+75,1,Mary Fay (R),"$26,836","$25,118","$1,718",12/31/2020,CT,1,Mary Fay ,R,False,False
+76,0,Joe Courtney (D)  • Incumbent • Winner,"$964,731","$999,360","$715,813",12/31/2020,CT,2,Joe Courtney ,D,True,True
+77,1,Justin Anderson (R),"$80,227","$78,767","$1,460",12/31/2020,CT,2,Justin Anderson ,R,False,False
+78,0,Rosa L DeLauro (D)  • Incumbent • Winner,"$1,938,999","$1,795,635","$159,728",12/31/2020,CT,3,Rosa L DeLauro ,D,True,True
+79,1,Margaret Streicker (R),"$1,839,080","$1,835,385","$3,695",12/31/2020,CT,3,Margaret Streicker ,R,False,False
+80,2,Justin Paglino (3),"$29,200","$28,670",$529,12/31/2020,CT,3,Justin Paglino ,3,False,False
+81,0,Jim Himes (D)  • Incumbent • Winner,"$1,612,935","$2,180,029","$1,823,200",12/31/2020,CT,4,Jim Himes ,D,True,True
+82,1,Jonathan Riddle (R),"$31,591","$17,385","$11,976",12/31/2020,CT,4,Jonathan Riddle ,R,False,False
+83,0,Jahana Hayes (D)  • Incumbent • Winner,"$2,037,826","$1,564,685","$1,029,607",12/31/2020,CT,5,Jahana Hayes ,D,True,True
+84,1,David Sullivan (R),"$397,395","$397,370",$25,12/31/2020,CT,5,David Sullivan ,R,False,False
+85,0,Lisa Blunt Rochester (D)  • Incumbent • Winner,"$2,024,201","$1,305,618","$963,766",12/31/2020,DE,1,Lisa Blunt Rochester ,D,True,True
+86,1,Lee Murphy (R),"$131,394","$131,862",$247,12/03/2020,DE,1,Lee Murphy ,R,False,False
+87,2,Matthew Morris (R),"$10,070","$10,400",-$100,09/15/2020,DE,1,Matthew Morris ,R,False,False
+88,3,Catherine Purcell (I),"$5,344","$5,103",$0,11/25/2020,DE,1,Catherine Purcell ,I,False,False
+89,0,Matt Gaetz (R)  • Incumbent • Winner,"$5,946,646","$4,482,782","$1,605,826",12/31/2020,FL,1,Matt Gaetz ,R,True,True
+90,1,Phil Ehr (D),"$2,025,099","$1,900,451","$124,648",12/31/2020,FL,1,Phil Ehr ,D,False,False
+91,2,Bert Oram (I),"$8,108","$7,070","$1,039",12/31/2020,FL,1,Bert Oram ,I,False,False
+92,0,Neal Dunn (R)  • Incumbent • Winner,"$653,488","$637,580","$402,063",12/31/2020,FL,2,Neal Dunn ,R,True,True
+93,1,Kristy Thripp (I),$145,$145,$0,09/30/2020,FL,2,Kristy Thripp ,I,False,False
+94,0,Kat Cammack (R)  • Winner,"$1,122,188","$1,090,334","$31,853",12/31/2020,FL,3,Kat Cammack ,R,False,True
+95,1,Adam Christensen (D),"$216,021","$219,108","$43,481",12/31/2020,FL,3,Adam Christensen ,D,False,False
+96,0,John Rutherford (R)  • Incumbent • Winner,"$1,024,912","$1,283,701","$106,937",12/31/2020,FL,4,John Rutherford ,R,True,True
+97,1,Donna Deegan (D),"$1,013,157","$1,013,157",$0,12/31/2020,FL,4,Donna Deegan ,D,False,False
+98,0,Al Lawson (D)  • Incumbent • Winner,"$848,498","$695,779","$167,392",12/31/2020,FL,5,Al Lawson ,D,True,True
+99,1,Gary Adler (R),"$146,909","$146,909",$0,12/01/2020,FL,5,Gary Adler ,R,False,False
+100,0,Michael Waltz (R)  • Incumbent • Winner,"$2,549,667","$1,716,768","$884,460",12/31/2020,FL,6,Michael Waltz ,R,True,True
+101,1,Clint Curtis (D),"$24,310","$22,251","$12,647",12/11/2020,FL,6,Clint Curtis ,D,False,False
+102,2,Gerry Nolan (I),"$4,467","$5,256",-$789,12/03/2020,FL,6,Gerry Nolan ,I,False,False
+103,0,Stephanie Murphy (D)  • Incumbent • Winner,"$3,124,692","$1,798,549","$1,412,017",12/31/2020,FL,7,Stephanie Murphy ,D,True,True
+104,1,Leo Valentin (R),"$1,045,426","$1,031,316","$14,110",12/31/2020,FL,7,Leo Valentin ,R,False,False
+105,2,Bill Garlington (I),"$11,000",$0,"$11,000",12/31/2020,FL,7,Bill Garlington ,I,False,False
+106,0,Bill Posey (R)  • Incumbent • Winner,"$985,268","$1,121,834","$169,964",12/31/2020,FL,8,Bill Posey ,R,True,True
+107,1,James Kennedy (D),"$138,568","$138,790",$836,12/31/2020,FL,8,James Kennedy ,D,False,False
+108,0,Darren Soto (D)  • Incumbent • Winner,"$1,111,750","$945,868","$172,401",12/31/2020,FL,9,Darren Soto ,D,True,True
+109,1,William Olson (R),"$404,406","$401,088","$3,318",12/31/2020,FL,9,William Olson ,R,False,False
+110,0,Buddy Carter (R)  • Incumbent • Winner,"$2,315,487","$1,734,754","$1,705,925",12/31/2020,GA,1,Buddy Carter ,R,True,True
+111,1,Joyce Griggs (D),"$130,043","$125,000","$5,043",12/31/2020,GA,1,Joyce Griggs ,D,False,False
+112,0,Sanford Bishop (D)  • Incumbent • Winner,"$1,540,683","$1,440,571","$192,528",12/31/2020,GA,2,Sanford Bishop ,D,True,True
+113,1,Don Cole (R),"$164,274","$162,522","$1,752",12/31/2020,GA,2,Don Cole ,R,False,False
+114,0,Drew Ferguson (R)  • Incumbent • Winner,"$2,374,212","$2,150,911","$338,087",12/31/2020,GA,3,Drew Ferguson ,R,True,True
+115,1,Valbrun Almonord (D),"$35,762","$31,946","$14,858",11/23/2020,GA,3,Valbrun Almonord ,D,False,False
+116,0,Hank Johnson (D)  • Incumbent • Winner,"$628,303","$490,360","$182,400",12/31/2020,GA,4,Hank Johnson ,D,True,True
+117,1,Johsira C. Cruz (R),"$12,954","$23,146","-$3,100",10/14/2020,GA,4,Cruz ,R,False,False
+118,0,Nikema Williams (D)  • Winner,"$553,964","$362,801","$191,163",12/31/2020,GA,5,Nikema Williams ,D,False,True
+119,1,Robert Franklin (D),"$360,473","$358,394","$2,078",12/31/2020,GA,5,Robert Franklin ,D,False,False
+120,2,Angela Stanton-King (R),"$305,279","$301,338","$3,940",12/31/2020,GA,5,Angela Stanton-King ,R,False,False
+121,3,Kwanza Hall (D),"$239,597","$227,091","$12,505",12/31/2020,GA,5,Kwanza Hall ,D,False,False
+122,4,Barrington Martin II (D),"$16,522","$16,517",$6,09/30/2020,GA,5,Barrington Martin II ,D,False,False
+123,5,Chase Oliver (L),"$9,225","$5,220","$4,005",09/30/2020,GA,5,Chase Oliver ,L,False,False
+124,6,Steven Muhammad (I),"$3,497","-$4,965","$13,842",09/30/2020,GA,5,Steven Muhammad ,I,False,False
+125,7,Keisha Waites (D),$875,$0,$875,05/20/2020,GA,5,Keisha Waites ,D,False,False
+126,0,Lucy McBath (D)  • Incumbent • Winner,"$8,507,298","$8,586,054","$139,929",12/31/2020,GA,6,Lucy McBath ,D,True,True
+127,1,Karen Handel (R),"$3,026,243","$3,072,932","$41,001",12/31/2020,GA,6,Karen Handel ,R,False,False
+128,0,Carolyn Bourdeaux (D)  • Winner,"$5,133,244","$5,161,230","$113,948",12/31/2020,GA,7,Carolyn Bourdeaux ,D,False,True
+129,1,Richard McCormick (R),"$2,595,446","$2,563,724","$25,914",12/31/2020,GA,7,Richard McCormick ,R,False,False
+130,0,Austin Scott (R)  • Incumbent • Winner,"$821,745","$716,159","$666,530",12/31/2020,GA,8,Austin Scott ,R,True,True
+131,1,Jimmy Cooper (3),"$8,542","$8,528",$15,12/31/2020,GA,8,Jimmy Cooper ,3,False,False
+132,2,Lindsay Holliday (D),"$7,480","$5,220",$210,09/30/2020,GA,8,Lindsay Holliday ,D,False,False
+133,0,Andrew Clyde (R)  • Winner,"$1,569,425","$1,561,316","$8,108",12/31/2020,GA,9,Andrew Clyde ,R,False,True
+134,1,Devin Pandy (D),"$84,272","$84,623","-$1,279",12/31/2020,GA,9,Devin Pandy ,D,False,False
+135,0,Ed Case (D)  • Incumbent,"$508,249","$472,569","$116,701",12/31/2020,HI,1,Ed Case ,D,True,True
+136,1,Ron Curtis (R),"$12,538","$12,647",-$109,12/31/2020,HI,1,Ron Curtis ,R,False,False
+137,0,Kai Kahele (D)  • Winner,"$1,235,523","$1,039,637","$195,886",12/31/2020,HI,2,Kai Kahele ,D,False,True
+138,1,Joe Akana (R),"$54,534","$55,344",-$810,12/31/2020,HI,2,Joe Akana ,R,False,False
+139,2,Jonathan Hoomanawanui (3),"$1,883","$1,522",$585,10/14/2020,HI,2,Jonathan Hoomanawanui ,3,False,False
+140,0,Russ Fulcher (R)  • Incumbent • Winner,"$575,485","$508,457","$102,831",12/31/2020,ID,1,Russ Fulcher ,R,True,True
+141,1,Rudy Soto (D),"$302,902","$302,902",$0,12/07/2020,ID,1,Rudy Soto ,D,False,False
+142,0,Mike Simpson (R)  • Incumbent • Winner,"$1,008,847","$1,099,604","$176,314",12/31/2020,ID,2,Mike Simpson ,R,True,True
+143,1,Aaron Swisher (D),"$70,674","$70,268","$7,851",12/31/2020,ID,2,Aaron Swisher ,D,False,False
+144,0,Bobby L Rush (D)  • Incumbent • Winner,"$541,435","$496,454","$111,621",12/31/2020,IL,1,Bobby L Rush ,D,True,True
+145,1,Philanise White (R),"$6,289","$5,048",$928,12/31/2020,IL,1,Philanise White ,R,False,False
+146,0,Robin Kelly (D)  • Incumbent • Winner,"$1,634,783","$1,108,137","$1,014,413",12/31/2020,IL,2,Robin Kelly ,D,True,True
+147,0,Marie Newman (D)  • Winner,"$2,802,093","$2,699,323","$102,841",12/31/2020,IL,3,Marie Newman ,D,False,True
+148,1,Mike Fricilone (R),"$128,458","$127,980",$478,12/31/2020,IL,3,Mike Fricilone ,R,False,False
+149,0,Jesus Garcia (D)  • Incumbent • Winner,"$822,846","$711,159","$126,757",12/31/2020,IL,4,Jesus Garcia ,D,True,True
+150,1,Jesus Solorio Jr (R),"$2,065",$843,"$1,129",11/23/2020,IL,4,Jesus Solorio Jr ,R,False,False
+151,0,Mike Quigley (D)  • Incumbent • Winner,"$1,171,507","$926,655","$1,022,348",12/31/2020,IL,5,Mike Quigley ,D,True,True
+152,0,Sean Casten (D)  • Incumbent • Winner,"$5,582,179","$5,313,570","$346,138",12/31/2020,IL,6,Sean Casten ,D,True,True
+153,1,Jeanne Ives (R),"$3,157,771","$3,135,464","$22,307",12/31/2020,IL,6,Jeanne Ives ,R,False,False
+154,2,Bill Redpath (L),"$9,837","$9,837",$0,11/24/2020,IL,6,Bill Redpath ,L,False,False
+155,0,Danny K Davis (D)  • Incumbent • Winner,"$544,690","$505,506","$243,172",12/31/2020,IL,7,Danny K Davis ,D,True,True
+156,1,Tracy Jennings (3),"$65,283","$65,283",$0,12/03/2020,IL,7,Tracy Jennings ,3,False,False
+157,0,Raja Krishnamoorthi (D)  • Incumbent • Winner,"$6,358,878","$2,207,703","$8,427,847",12/31/2020,IL,8,Raja Krishnamoorthi ,D,True,True
+158,0,Jan Schakowsky (D)  • Incumbent • Winner,"$1,834,801","$1,514,838","$749,054",12/31/2020,IL,9,Jan Schakowsky ,D,True,True
+159,1,Sargis Sangari (R),"$35,364","$34,715","-$3,410",12/31/2020,IL,9,Sargis Sangari ,R,False,False
+160,0,Frank J. Mrvan (D)  • Winner,"$578,635","$464,407","$114,228",12/31/2020,IN,1,Mrvan ,D,False,True
+161,1,Mark Leyva (R),"$16,551","$15,343","$1,208",12/31/2020,IN,1,Mark Leyva ,R,False,False
+162,0,Jackie Walorski (R)  • Incumbent • Winner,"$2,383,467","$1,698,202","$803,297",12/31/2020,IN,2,Jackie Walorski ,R,True,True
+163,1,Pat Hackett (D),"$881,888","$867,301","$15,785",12/31/2020,IN,2,Pat Hackett ,D,False,False
+164,0,Jim Banks (R)  • Incumbent • Winner,"$1,202,509","$769,591","$444,427",12/31/2020,IN,3,Jim Banks ,R,True,True
+165,1,Chip Coldiron (D),"$94,056","$89,883","$2,119",12/31/2020,IN,3,Chip Coldiron ,D,False,False
+166,0,Jim Baird (R)  • Incumbent • Winner,"$327,727","$190,158","$247,371",12/31/2020,IN,4,Jim Baird ,R,True,True
+167,1,Joe Mackey (D),"$44,585","$43,213","$1,590",12/31/2020,IN,4,Joe Mackey ,D,False,False
+168,0,Christina Hale (D),"$4,010,368","$3,998,905","$11,464",12/31/2020,IN,5,Christina Hale ,D,False,True
+169,1,Victoria Spartz (R)  • Winner,"$3,119,328","$3,010,203","$109,124",12/31/2020,IN,5,Victoria Spartz ,R,False,False
+170,0,Greg Pence (R)  • Incumbent • Winner,"$3,114,448","$2,804,148","$510,827",12/31/2020,IN,6,Greg Pence ,R,True,True
+171,1,Jeannine Lee Lake (D),"$143,089","$145,315","-$2,227",11/23/2020,IN,6,Jeannine Lee Lake ,D,False,False
+172,0,Andre Carson (D)  • Incumbent • Winner,"$1,011,635","$873,962","$988,170",12/31/2020,IN,7,Andre Carson ,D,True,True
+173,1,Susan Marie Smith (R),"$62,905","$59,843","$1,857",12/31/2020,IN,7,Susan Marie Smith ,R,False,False
+174,0,Larry Bucshon (R)  • Incumbent • Winner,"$1,051,336","$1,078,646","$206,920",12/31/2020,IN,8,Larry Bucshon ,R,True,True
+175,1,Thomasina Marsili (D),"$68,734","$68,480",$254,12/31/2020,IN,8,Thomasina Marsili ,D,False,False
+176,0,Trey Hollingsworth (R)  • Incumbent • Winner,"$1,166,754","$501,136","$672,944",12/31/2020,IN,9,Trey Hollingsworth ,R,True,True
+177,1,Andy Ruff (D),"$148,263","$134,906","$13,357",12/31/2020,IN,9,Andy Ruff ,D,False,False
+178,2,Tonya Millis (L),"$10,224","$10,041",$59,11/12/2020,IN,9,Tonya Millis ,L,False,False
+179,0,Abby Finkenauer (D)  • Incumbent,"$5,901,441","$5,875,405","$55,019",12/31/2020,IA,1,Abby Finkenauer ,D,True,True
+180,1,Ashley Hinson (R)  • Winner,"$5,175,883","$5,059,211","$116,672",12/31/2020,IA,1,Ashley Hinson ,R,False,False
+181,0,Rita Hart (D),"$4,232,992","$4,114,400","$118,592",12/31/2020,IA,2,Rita Hart ,D,False,True
+182,1,Mariannette Miller-Meeks (R)  • Winner,"$2,174,194","$1,721,926","$452,413",12/31/2020,IA,2,Mariannette Miller-Meeks ,R,False,False
+183,0,Cindy Axne (D)  • Incumbent • Winner,"$6,236,976","$6,236,994","$19,521",12/31/2020,IA,3,Cindy Axne ,D,True,True
+184,1,David Young (R),"$3,170,072","$3,094,582","$88,291",12/31/2020,IA,3,David Young ,R,False,False
+185,0,J.D. Scholten (D),"$2,885,915","$2,902,003","$53,112",12/31/2020,IA,4,Scholten ,D,False,True
+186,1,Randy Feenstra (R)  • Winner,"$1,906,234","$1,894,288","$11,946",12/31/2020,IA,4,Randy Feenstra ,R,False,False
+188,1,Matthew Campbell (D)  (32.4% of vote),"$249,782","$261,265","$2,302",12/31/2010,IA,5,Matthew Campbell ,D,True,False
+189,0,Tracey Mann (R)  • Winner,"$1,403,353","$1,127,156","$276,197",12/31/2020,KS,1,Tracey Mann ,R,False,True
+190,1,Kali Barnett (D),"$603,036","$592,924","$10,112",12/31/2020,KS,1,Kali Barnett ,D,False,False
+191,0,Michelle De La Isla (D),"$1,825,085","$1,810,968","$14,118",12/31/2020,KS,2,De La Isla ,D,False,True
+192,1,Jake Laturner (R)  • Winner,"$1,593,407","$1,578,460","$14,947",12/31/2020,KS,2,Jake Laturner ,R,False,False
+193,0,Sharice Davids (D)  • Incumbent • Winner,"$5,638,552","$5,168,034","$479,150",12/31/2020,KS,3,Sharice Davids ,D,True,True
+194,1,Amanda Adkins (R),"$2,182,382","$2,139,673","$42,710",12/31/2020,KS,3,Amanda Adkins ,R,False,False
+195,0,Ron Estes (R)  • Incumbent • Winner,"$1,993,808","$1,420,188","$844,164",12/31/2020,KS,4,Ron Estes ,R,True,True
+196,1,Laura Lombard (D),"$264,459","$258,684","$5,775",11/23/2020,KS,4,Laura Lombard ,D,False,False
+197,0,James Comer (R)  • Incumbent • Winner,"$736,116","$502,554","$402,463",12/31/2020,KY,1,James Comer ,R,True,True
+198,0,Brett Guthrie (R)  • Incumbent • Winner,"$1,412,797","$1,566,622","$1,856,674",12/31/2020,KY,2,Brett Guthrie ,R,True,True
+199,1,Hank Linderman (D),"$93,388","$71,122","$31,482",12/31/2020,KY,2,Hank Linderman ,D,False,False
+200,2,Robert Lee Perry (L),"$12,798","$7,825",$0,12/31/2020,KY,2,Robert Lee Perry ,L,False,False
+201,0,John Yarmuth (D)  • Incumbent • Winner,"$658,295","$690,226","$169,846",12/31/2020,KY,3,John Yarmuth ,D,True,True
+202,1,Rhonda Palazzo (R),"$46,144","$45,668",$476,12/31/2020,KY,3,Rhonda Palazzo ,R,False,False
+203,0,Thomas Massie (R)  • Incumbent • Winner,"$1,457,316","$1,563,275","$119,384",12/31/2020,KY,4,Thomas Massie ,R,True,True
+204,1,Alexandra Owensby (D),"$156,174","$106,359","$49,227",10/14/2020,KY,4,Alexandra Owensby ,D,False,False
+205,0,Hal Rogers (R)  • Incumbent • Winner,"$664,168","$835,781","$836,903",12/31/2020,KY,5,Hal Rogers ,R,True,True
+206,0,Andy Barr (R)  • Incumbent • Winner,"$4,536,264","$4,316,239","$354,703",12/31/2020,KY,6,Andy Barr ,R,True,True
+207,1,Josh Hicks (D),"$2,936,320","$2,935,615",$705,12/31/2020,KY,6,Josh Hicks ,D,False,False
+208,0,Steve Scalise (R)  • Incumbent • Winner,"$37,262,827","$32,830,607","$6,217,720",12/31/2020,LA,1,Steve Scalise ,R,True,True
+209,0,Cedric Richmond (D)  • Incumbent • Winner,"$1,628,289","$1,302,079","$795,949",12/31/2020,LA,2,Cedric Richmond ,D,True,True
+210,0,Clay Higgins (R)  • Incumbent • Winner,"$751,498","$720,424","$71,763",12/31/2020,LA,3,Clay Higgins ,R,True,True
+211,1,Robert Jon Anderson (D),"$63,617","$48,015","$2,695",03/31/2020,LA,3,Robert Jon Anderson ,D,False,False
+212,2,Braylon Harris (D),"$23,006","$15,130","$7,876",12/31/2020,LA,3,Braylon Harris ,D,False,False
+213,0,Mike Johnson (R)  • Incumbent • Winner,"$1,299,787","$1,039,393","$669,686",12/31/2020,LA,4,Mike Johnson ,R,True,True
+214,1,Kenny Houston (D),"$33,677","$33,407",$270,12/15/2020,LA,4,Kenny Houston ,D,False,False
+215,0,Luke Letlow (R),"$1,392,822","$1,303,757","$89,065",12/31/2020,LA,5,Luke Letlow ,R,False,True
+216,1,Lance Harris (R),"$696,805","$687,833","$8,972",12/31/2020,LA,5,Lance Harris ,R,False,False
+217,2,Martin Lemelle (D),"$173,796","$162,747","$11,048",12/31/2020,LA,5,Martin Lemelle ,D,False,False
+218,3,Scotty Robinson (R),"$113,903","$113,835",$68,12/31/2020,LA,5,Scotty Robinson ,R,False,False
+219,4,Candy Christophe (D),"$77,101","$131,161","-$51,355",12/31/2020,LA,5,Candy Christophe ,D,False,False
+220,5,Phillip Snowden (D),"$29,481","$28,077",$1,11/23/2020,LA,5,Phillip Snowden ,D,False,False
+221,6,Matthew Hasty (R),"$2,654","$2,615",$38,10/15/2020,LA,5,Matthew Hasty ,R,False,False
+222,0,Garret Graves (R)  • Incumbent • Winner,"$1,743,015","$1,200,287","$2,026,909",12/31/2020,LA,6,Garret Graves ,R,True,True
+223,1,Dartanyon Williams (D),"$111,316","$98,114","$8,723",12/31/2020,LA,6,Dartanyon Williams ,D,False,False
+225,0,Chellie Pingree (D)  • Incumbent • Winner,"$487,080","$264,790","$446,658",12/31/2020,ME,1,Chellie Pingree ,D,True,True
+226,1,Jay Allen (R),"$79,585","$69,853","$9,731",12/31/2020,ME,1,Jay Allen ,R,False,False
+227,0,Jared Golden (D)  • Incumbent • Winner,"$5,272,142","$5,233,990","$130,861",12/31/2020,ME,2,Jared Golden ,D,True,True
+228,1,Dale Crafts (R),"$1,199,805","$1,196,117","$3,689",12/31/2020,ME,2,Dale Crafts ,R,False,False
+229,0,Andy Harris (R)  • Incumbent • Winner,"$1,468,096","$973,953","$1,043,179",12/31/2020,MD,1,Andy Harris ,R,True,True
+230,1,Mia Mason (D),"$2,524",$0,$0,06/30/2020,MD,1,Mia Mason ,D,False,False
+231,0,Dutch Ruppersberger (D)  • Incumbent • Winner,"$1,012,835","$927,353","$1,204,214",12/31/2020,MD,2,Dutch Ruppersberger ,D,True,True
+232,1,Johnny Ray Salling (R),"$68,320","$66,895","$1,525",12/31/2020,MD,2,Johnny Ray Salling ,R,False,False
+233,0,John Sarbanes (D)  • Incumbent • Winner,"$573,599","$687,299","$1,036,784",12/31/2020,MD,3,John Sarbanes ,D,True,True
+234,1,Charles Anthony (R),"$7,798","$6,742","$1,006",12/31/2020,MD,3,Charles Anthony ,R,False,False
+235,0,Anthony Brown (D)  • Incumbent • Winner,"$1,446,636","$846,827","$1,117,335",12/31/2020,MD,4,Anthony Brown ,D,True,True
+236,0,Steny H Hoyer (D)  • Incumbent • Winner,"$4,587,189","$4,342,255","$879,067",12/31/2020,MD,5,Steny H Hoyer ,D,True,True
+237,1,Chris Palombi (R),"$43,462","$42,095","$1,366",12/31/2020,MD,5,Chris Palombi ,R,False,False
+238,0,David Trone (D)  • Incumbent • Winner,"$2,944,893","$2,959,748","$93,680",12/31/2020,MD,6,David Trone ,D,True,True
+239,1,Neil Parrott (R),"$315,936","$261,259","$117,161",12/31/2020,MD,6,Neil Parrott ,R,False,False
+240,0,Kweisi Mfume (D)  • Incumbent • Winner,"$1,014,126","$713,389","$300,737",12/31/2020,MD,7,Kweisi Mfume ,D,True,True
+241,1,Kimberly Klacik (R),"$8,296,845","$7,499,454","$803,568",12/31/2020,MD,7,Kimberly Klacik ,R,False,False
+242,2,Amber Ivey (I),"$41,924","$43,394",$0,09/30/2020,MD,7,Amber Ivey ,I,False,False
+243,0,Jamie Raskin (D)  • Incumbent • Winner,"$2,072,652","$1,399,252","$1,338,530",12/31/2020,MD,8,Jamie Raskin ,D,True,True
+244,1,Gregory Coll (R),"$30,876","$27,257","$3,618",12/31/2020,MD,8,Gregory Coll ,R,False,False
+245,0,Richard E Neal (D)  • Incumbent • Winner,"$4,949,384","$5,873,122","$2,384,564",12/31/2020,MA,1,Richard E Neal ,D,True,True
+246,0,James P McGovern (D)  • Incumbent • Winner,"$1,052,549","$1,089,412","$264,946",12/31/2020,MA,2,James P McGovern ,D,True,True
+247,1,Tracy Lovvorn (R),"$26,311","$22,319","$6,398",12/31/2020,MA,2,Tracy Lovvorn ,R,False,False
+248,0,Lori Trahan (D)  • Incumbent • Winner,"$1,449,303","$1,232,437","$285,963",12/31/2020,MA,3,Lori Trahan ,D,True,True
+249,0,Jake Auchincloss (D)  • Winner,"$2,608,686","$2,150,904","$457,782",12/31/2020,MA,4,Jake Auchincloss ,D,False,True
+250,1,Julie Hall (R),"$131,603","$129,378","$2,225",12/31/2020,MA,4,Julie Hall ,R,False,False
+251,0,Katherine Clark (D)  • Incumbent • Winner,"$1,788,706","$1,514,877","$1,292,775",12/31/2020,MA,5,Katherine Clark ,D,True,True
+252,1,Caroline Colarusso (R),"$148,635","$146,972","$1,663",12/31/2020,MA,5,Caroline Colarusso ,R,False,False
+253,0,Seth Moulton (D)  • Incumbent • Winner,"$1,289,805","$1,802,169","$245,668",12/31/2020,MA,6,Seth Moulton ,D,True,True
+254,1,John Paul Moran (R),"$300,220","$299,104","$1,117",12/31/2020,MA,6,John Paul Moran ,R,False,False
+255,0,Ayanna Pressley (D)  • Incumbent • Winner,"$2,163,370","$1,748,432","$501,037",12/31/2020,MA,7,Ayanna Pressley ,D,True,True
+256,0,Stephen F Lynch (D)  • Incumbent • Winner,"$905,614","$1,134,662","$1,213,384",12/31/2020,MA,8,Stephen F Lynch ,D,True,True
+257,0,Bill Keating (D)  • Incumbent • Winner,"$708,680","$652,448","$1,504,778",12/31/2020,MA,9,Bill Keating ,D,True,True
+258,1,Helen Brady (R),"$28,233","$23,735","$4,498",12/31/2020,MA,9,Helen Brady ,R,False,False
+259,0,John Bergman (R)  • Incumbent • Winner,"$1,868,512","$1,733,466","$140,400",12/31/2020,MI,1,John Bergman ,R,True,True
+260,1,Dana Ferguson (D),"$346,213","$339,788","$4,287",12/31/2020,MI,1,Dana Ferguson ,D,False,False
+261,0,Bill Huizenga (R)  • Incumbent • Winner,"$2,175,411","$1,883,610","$469,697",12/31/2020,MI,2,Bill Huizenga ,R,True,True
+262,1,Bryan Berghoef (D),"$751,576","$669,864","$19,351",12/31/2020,MI,2,Bryan Berghoef ,D,False,False
+263,2,Jean-Michel Creviere (3),$281,"$1,207",-$559,11/15/2020,MI,2,Michel Creviere ,3,False,False
+264,0,Hillary Scholten (D),"$3,793,132","$3,765,942","$27,190",12/31/2020,MI,3,Hillary Scholten ,D,False,True
+265,1,Peter Meijer (R)  • Winner,"$2,975,972","$2,887,774","$88,199",12/31/2020,MI,3,Peter Meijer ,R,False,False
+266,0,John Moolenaar (R)  • Incumbent • Winner,"$1,528,612","$1,036,160","$611,147",12/31/2020,MI,4,John Moolenaar ,R,True,True
+267,1,Jerry Hilliard (D),"$23,117","$23,603",$0,12/31/2020,MI,4,Jerry Hilliard ,D,False,False
+268,0,Dan Kildee (D)  • Incumbent • Winner,"$1,669,951","$1,504,094","$781,722",12/31/2020,MI,5,Dan Kildee ,D,True,True
+269,1,Tim Kelly (R),"$71,106","$71,106",$0,12/31/2020,MI,5,Tim Kelly ,R,False,False
+270,0,Fred Upton (R)  • Incumbent • Winner,"$3,616,380","$3,464,617","$187,875",12/31/2020,MI,6,Fred Upton ,R,True,True
+271,1,Jon Hoadley (D),"$3,116,491","$3,098,366","$18,125",12/31/2020,MI,6,Jon Hoadley ,D,False,False
+272,0,Tim Walberg (R)  • Incumbent • Winner,"$2,301,635","$1,586,358","$769,368",12/31/2020,MI,7,Tim Walberg ,R,True,True
+273,1,Gretchen Driskell (D),"$1,712,840","$1,712,840",$0,12/21/2020,MI,7,Gretchen Driskell ,D,False,False
+274,0,Elissa Slotkin (D)  • Incumbent • Winner,"$8,967,420","$7,419,974","$1,566,680",12/31/2020,MI,8,Elissa Slotkin ,D,True,True
+275,1,Paul Junge (R),"$2,107,608","$2,097,131","$10,477",12/31/2020,MI,8,Paul Junge ,R,False,False
+276,0,Andy Levin (D)  • Incumbent • Winner,"$1,316,607","$907,237","$428,478",12/31/2020,MI,9,Andy Levin ,D,True,True
+277,0,Jim Hagedorn (R)  • Incumbent • Winner,"$2,386,033","$2,305,994","$81,131",12/31/2020,MN,1,Jim Hagedorn ,R,True,True
+278,1,Daniel Feehan (D),"$4,861,651","$4,863,835","$1,337",12/31/2020,MN,1,Daniel Feehan ,D,False,False
+279,0,Angie Craig (D)  • Incumbent • Winner,"$5,380,101","$4,435,492","$1,032,000",12/31/2020,MN,2,Angie Craig ,D,True,True
+280,1,Tyler Kistner (R),"$2,990,054","$2,956,042","$34,012",12/31/2020,MN,2,Tyler Kistner ,R,False,False
+281,0,Dean Phillips (D)  • Incumbent • Winner,"$2,328,616","$2,152,031","$218,067",12/31/2020,MN,3,Dean Phillips ,D,True,True
+282,1,Kendall Qualls (R),"$1,863,927","$1,751,214","$112,712",12/31/2020,MN,3,Kendall Qualls ,R,False,False
+283,2,Gary Heyer (I),$827,$827,$0,01/20/2020,MN,3,Gary Heyer ,I,False,False
+284,0,Betty McCollum (D)  • Incumbent • Winner,"$1,171,748","$994,072","$283,976",12/31/2020,MN,4,Betty McCollum ,D,True,True
+285,1,Gene Rechtzigel (R),"$20,075","$20,075",$100,08/31/2020,MN,4,Gene Rechtzigel ,R,False,False
+286,0,Ilhan Omar (D)  • Incumbent • Winner,"$5,718,517","$5,605,576","$167,770",12/31/2020,MN,5,Ilhan Omar ,D,True,True
+287,1,Lacy Johnson (R),"$12,050,564","$12,000,896","$49,668",12/31/2020,MN,5,Lacy Johnson ,R,False,False
+288,2,Chris Kelley (3),"$249,583","$249,583",$0,07/02/2020,MN,5,Chris Kelley ,3,False,False
+289,3,Ervan Katari Miller (I),$255,$187,$68,09/16/2019,MN,5,Ervan Katari Miller ,I,False,False
+290,0,Tom Emmer (R)  • Incumbent • Winner,"$2,804,265","$2,537,612","$448,839",12/31/2020,MN,6,Tom Emmer ,R,True,True
+291,1,Tawnja Zahradka (D),"$49,242","$49,214",$28,12/31/2020,MN,6,Tawnja Zahradka ,D,False,False
+292,0,Collin Peterson (D)  • Incumbent,"$2,714,012","$2,867,577","$344,745",12/31/2020,MN,7,Collin Peterson ,D,True,True
+293,1,Michelle Fischbach (R)  • Winner,"$2,618,450","$2,580,501","$37,949",12/31/2020,MN,7,Michelle Fischbach ,R,False,False
+294,0,Pete Stauber (R)  • Incumbent • Winner,"$2,593,190","$2,608,759","$2,767",12/31/2020,MN,8,Pete Stauber ,R,True,True
+295,1,Quinn Nystrom (D),"$1,530,606","$1,527,005","$3,600",12/31/2020,MN,8,Quinn Nystrom ,D,False,False
+296,0,Trent Kelly (R)  • Incumbent • Winner,"$876,882","$826,673","$228,295",12/31/2020,MS,1,Trent Kelly ,R,True,True
+297,1,Antonia Eliason (D),"$22,281","$18,174","$4,107",11/23/2020,MS,1,Antonia Eliason ,D,False,False
+298,0,Bennie G Thompson (D)  • Incumbent • Winner,"$1,377,392","$1,096,904","$1,523,548",12/31/2020,MS,2,Bennie G Thompson ,D,True,True
+299,0,Michael Guest (R)  • Incumbent • Winner,"$766,807","$518,162","$281,968",12/31/2020,MS,3,Michael Guest ,R,True,True
+300,0,Steven Palazzo (R)  • Incumbent • Winner,"$817,129","$747,217","$302,029",12/31/2020,MS,4,Steven Palazzo ,R,True,True
+301,0,Cori Bush (D)  • Winner,"$1,418,014","$1,333,512","$84,503",12/31/2020,MO,1,Cori Bush ,D,False,True
+302,0,Ann Wagner (R)  • Incumbent • Winner,"$5,598,287","$6,513,101","$113,443",12/31/2020,MO,2,Ann Wagner ,R,True,True
+303,1,Jill Schupp (D),"$4,850,948","$4,830,434","$20,513",12/31/2020,MO,2,Jill Schupp ,D,False,False
+304,0,Blaine Luetkemeyer (R)  • Incumbent • Winner,"$2,022,905","$2,081,391","$2,205,404",12/31/2020,MO,3,Blaine Luetkemeyer ,R,True,True
+305,0,Vicky Hartzler (R)  • Incumbent • Winner,"$1,700,978","$1,335,607","$645,432",12/31/2020,MO,4,Vicky Hartzler ,R,True,True
+306,1,Lindsey Simmons (D),"$395,934","$384,622","$11,282",12/31/2020,MO,4,Lindsey Simmons ,D,False,False
+307,0,Emanuel Cleaver (D)  • Incumbent • Winner,"$1,393,847","$928,061","$1,134,774",12/31/2020,MO,5,Emanuel Cleaver ,D,True,True
+308,1,Ryan Derks (R),"$76,488","$76,488",$0,12/11/2020,MO,5,Ryan Derks ,R,False,False
+309,0,Sam Graves (R)  • Incumbent • Winner,"$1,959,516","$1,654,756","$856,973",12/31/2020,MO,6,Sam Graves ,R,True,True
+310,1,Gena Ross (D),"$10,170","$10,530","$1,836",11/23/2020,MO,6,Gena Ross ,D,False,False
+311,0,Billy Long (R)  • Incumbent • Winner,"$1,320,420","$1,518,234","$475,111",12/31/2020,MO,7,Billy Long ,R,True,True
+312,1,Audrey Richards (I),"$7,985","$8,113",-$624,10/14/2020,MO,7,Audrey Richards ,I,False,False
+313,0,Jason Smith (R)  • Incumbent • Winner,"$1,900,227","$1,514,786","$1,531,680",12/31/2020,MO,8,Jason Smith ,R,True,True
+314,1,Kathryn Ellis (D),"$302,428","$305,387",$0,12/21/2020,MO,8,Kathryn Ellis ,D,False,False
+316,0,Kathleen Williams (D),"$6,201,758","$6,232,286","$6,430",12/31/2020,MT,1,Kathleen Williams ,D,False,True
+317,1,Matt Rosendale (R)  • Winner,"$3,674,706","$3,488,045","$262,839",12/31/2020,MT,1,Matt Rosendale ,R,False,False
+318,0,Jeff Fortenberry (R)  • Incumbent • Winner,"$1,472,816","$2,458,330","$718,435",12/31/2020,NE,1,Jeff Fortenberry ,R,True,True
+319,1,Kate Bolz (D),"$1,143,509","$1,140,371","$3,139",12/31/2020,NE,1,Kate Bolz ,D,False,False
+320,0,Don Bacon (R)  • Incumbent • Winner,"$3,749,272","$3,713,961","$85,039",12/31/2020,NE,2,Don Bacon ,R,True,True
+321,1,Kara Eastman (D),"$4,414,390","$4,468,006","$29,232",12/31/2020,NE,2,Kara Eastman ,D,False,False
+322,0,Adrian Smith (R)  • Incumbent • Winner,"$1,506,473","$1,148,409","$1,145,643",12/31/2020,NE,3,Adrian Smith ,R,True,True
+323,1,Mark Elworth Jr (D),$255,$0,$255,06/30/2020,NE,3,Mark Elworth Jr ,D,False,False
+324,0,Dina Titus (D)  • Incumbent • Winner,"$706,193","$587,919","$328,890",12/31/2020,NV,1,Dina Titus ,D,True,True
+325,0,Mark Amodei (R)  • Incumbent • Winner,"$1,048,056","$1,016,673","$324,316",12/31/2020,NV,2,Mark Amodei ,R,True,True
+326,1,Patricia Ackerman (D),"$449,363","$449,449",$44,12/31/2020,NV,2,Patricia Ackerman ,D,False,False
+327,0,Susie Lee (D)  • Incumbent • Winner,"$4,748,019","$4,732,009","$28,704",12/31/2020,NV,3,Susie Lee ,D,True,True
+328,1,Dan Rodimer (R),"$2,936,059","$2,915,216","$20,842",12/31/2020,NV,3,Dan Rodimer ,R,False,False
+329,0,Steven Horsford (D)  • Incumbent • Winner,"$3,492,372","$3,024,427","$495,917",12/31/2020,NV,4,Steven Horsford ,D,True,True
+330,1,Jim Marchant (R),"$1,462,772","$1,419,405","$43,367",12/31/2020,NV,4,Jim Marchant ,R,False,False
+331,2,Jonathan Royce Esteban (L),"$2,788","$1,603","$2,227",06/30/2020,NV,4,Jonathan Royce Esteban ,L,False,False
+332,0,Chris Pappas (D)  • Incumbent • Winner,"$3,205,731","$3,105,663","$213,912",12/31/2020,NH,1,Chris Pappas ,D,True,True
+333,1,Matt Mowers (R),"$1,707,214","$1,698,761","$8,454",12/31/2020,NH,1,Matt Mowers ,R,False,False
+334,0,Ann Kuster (D)  • Incumbent • Winner,"$2,960,033","$2,970,274","$1,073,085",12/31/2020,NH,2,Ann Kuster ,D,True,True
+335,1,Steve Negron (R),"$368,177","$378,959","-$3,787",12/31/2020,NH,2,Steve Negron ,R,False,False
+336,0,Don Norcross (D)  • Incumbent • Winner,"$2,221,989","$1,087,264","$1,924,664",12/31/2020,NJ,1,Don Norcross ,D,True,True
+337,1,Claire Gustafson (R),"$36,520","$21,761","$14,759",06/30/2020,NJ,1,Claire Gustafson ,R,False,False
+338,0,Jeff Van Drew (R)  • Incumbent • Winner,"$4,229,171","$4,041,493","$191,878",12/31/2020,NJ,2,Jeff Van Drew ,R,True,True
+339,1,Amy Kennedy (D),"$4,984,376","$4,978,913","$5,463",12/31/2020,NJ,2,Amy Kennedy ,D,False,False
+340,0,Andy Kim (D)  • Incumbent • Winner,"$7,241,283","$6,753,262","$551,835",12/31/2020,NJ,3,Andy Kim ,D,True,True
+341,1,David Richter (R),"$1,473,669","$1,470,648","$3,021",12/31/2020,NJ,3,David Richter ,R,False,False
+342,0,Chris Smith (R)  • Incumbent • Winner,"$1,383,085","$1,284,522","$141,574",12/31/2020,NJ,4,Chris Smith ,R,True,True
+343,1,Stephanie Schmid (D),"$699,580","$658,011","$19,121",12/31/2020,NJ,4,Stephanie Schmid ,D,False,False
+344,0,Josh Gottheimer (D)  • Incumbent • Winner,"$7,694,027","$3,487,964","$8,349,098",12/31/2020,NJ,5,Josh Gottheimer ,D,True,True
+345,1,Frank Pallotta (R),"$1,972,033","$1,948,705","$23,328",12/31/2020,NJ,5,Frank Pallotta ,R,False,False
+346,2,Louis A. Vellucci (I),"$5,456","$5,342",$114,12/31/2020,NJ,5,Vellucci ,I,False,False
+347,0,Frank Pallone Jr. (D)  • Incumbent • Winner,"$3,231,755","$2,021,737","$3,337,596",12/31/2020,NJ,6,False,False,False,True
+348,0,Tom Malinowski (D)  • Incumbent • Winner,"$7,414,403","$7,423,758","$51,095",12/31/2020,NJ,7,Tom Malinowski ,D,True,True
+349,1,Tom Kean (R),"$3,869,121","$3,775,442","$93,679",12/31/2020,NJ,7,Tom Kean ,R,False,False
+350,0,Albio Sires (D)  • Incumbent • Winner,"$605,810","$551,325","$208,334",12/31/2020,NJ,8,Albio Sires ,D,True,True
+351,0,Bill Pascrell Jr. (D)  • Incumbent • Winner,"$1,560,550","$1,795,410","$1,404,384",12/31/2020,NJ,9,False,False,False,True
+352,1,Billy Prempeh (R),"$44,269","$35,075","$12,957",12/31/2020,NJ,9,Billy Prempeh ,R,False,False
+353,0,Debra Haaland (D)  • Incumbent • Winner,"$2,246,734","$1,875,766","$390,843",12/31/2020,NM,1,Debra Haaland ,D,True,True
+354,1,Michelle Garcia Holmes (R),"$257,294","$245,590","$11,705",12/31/2020,NM,1,Michelle Garcia Holmes ,R,False,False
+355,0,Xochitl Torres Small (D)  • Incumbent,"$8,387,337","$8,539,065","$16,718",12/31/2020,NM,2,Xochitl Torres Small ,D,True,True
+356,1,Yvette Herrell (R)  • Winner,"$2,805,711","$2,921,785","$54,544",12/31/2020,NM,2,Yvette Herrell ,R,False,False
+357,2,Steve Jones (I),"$9,405","$9,505",-$100,12/31/2020,NM,2,Steve Jones ,I,False,False
+358,0,Teresa Leger Fernandez (D)  • Winner,"$2,296,594","$2,132,010","$164,583",12/31/2020,NM,3,Teresa Leger Fernandez ,D,False,True
+359,1,Alexis Johnson (R),"$147,303","$147,303",$0,12/31/2020,NM,3,Alexis Johnson ,R,False,False
+360,0,Lee Zeldin (R)  • Incumbent • Winner,"$8,396,981","$8,250,116","$171,436",12/31/2020,NY,1,Lee Zeldin ,R,True,True
+361,1,Nancy Goroff (D),"$7,866,239","$7,860,977","$5,262",12/31/2020,NY,1,Nancy Goroff ,D,False,False
+362,0,Jackie Gordon (D),"$4,351,881","$4,334,484","$17,396",12/31/2020,NY,2,Jackie Gordon ,D,False,True
+363,1,Andrew Garbarino (R)  • Winner,"$1,743,986","$1,612,132","$131,854",12/31/2020,NY,2,Andrew Garbarino ,R,False,False
+364,2,Harry Burger (3),"$2,430",$594,"$1,836",12/31/2020,NY,2,Harry Burger ,3,False,False
+365,0,Tom Suozzi (D)  • Incumbent • Winner,"$2,941,006","$2,331,302","$1,930,681",12/31/2020,NY,3,Tom Suozzi ,D,True,True
+366,1,George Devolder-Santos (R),"$658,883","$591,239","$67,723",12/31/2020,NY,3,George Devolder-Santos ,R,False,False
+367,2,Joshua Sauberman (I),$127,$270,"-$2,258",12/31/2020,NY,3,Joshua Sauberman ,I,False,False
+368,0,Kathleen Rice (D)  • Incumbent • Winner,"$1,106,258","$1,210,410","$189,845",12/31/2020,NY,4,Kathleen Rice ,D,True,True
+369,1,Douglas Tuman (R),"$134,937","$130,995","$3,942",12/31/2020,NY,4,Douglas Tuman ,R,False,False
+370,2,Ed Dennehy (I),"$9,031","$9,031",$0,08/04/2020,NY,4,Ed Dennehy ,I,False,False
+371,0,Gregory W Meeks (D)  • Incumbent • Winner,"$2,097,572","$1,467,454","$781,472",12/31/2020,NY,5,Gregory W Meeks ,D,True,True
+372,1,Amit Lal (I),$126,$0,$126,11/16/2020,NY,5,Amit Lal ,I,False,False
+373,0,Grace Meng (D)  • Incumbent • Winner,"$1,292,084","$1,872,311","$395,520",12/31/2020,NY,6,Grace Meng ,D,True,True
+374,1,Thomas Zmich (R),"$133,403","$131,278","$2,125",12/31/2020,NY,6,Thomas Zmich ,R,False,False
+375,0,Nydia Velazquez (D)  • Incumbent • Winner,"$803,217","$676,248","$310,382",12/31/2020,NY,7,Nydia Velazquez ,D,True,True
+376,0,Hakeem Jeffries (D)  • Incumbent • Winner,"$4,168,717","$3,293,077","$2,145,322",12/31/2020,NY,8,Hakeem Jeffries ,D,True,True
+377,0,Yvette D Clarke (D)  • Incumbent • Winner,"$1,200,067","$1,190,143","$71,621",12/31/2020,NY,9,Yvette D Clarke ,D,True,True
+378,0,G K Butterfield (D)  • Incumbent • Winner,"$1,032,869","$880,420","$663,957",12/31/2020,NC,1,G K Butterfield ,D,True,True
+379,1,Sandy Smith (R),"$1,458,375","$1,437,805","$20,570",12/31/2020,NC,1,Sandy Smith ,R,False,False
+380,0,Deborah Ross (D)  • Winner,"$2,268,381","$1,816,923","$451,458",12/31/2020,NC,2,Deborah Ross ,D,False,True
+381,1,Alan Swain (R),"$119,664","$119,435",$229,12/31/2020,NC,2,Alan Swain ,R,False,False
+382,2,Japheth Matemu (L),$625,$54,$0,06/30/2019,NC,2,Japheth Matemu ,L,False,False
+383,0,Greg Murphy (R)  • Incumbent • Winner,"$1,767,790","$1,505,559","$262,231",12/31/2020,NC,3,Greg Murphy ,R,True,True
+384,0,David Price (D)  • Incumbent • Winner,"$1,161,738","$1,014,872","$313,316",12/31/2020,NC,4,David Price ,D,True,True
+385,0,Virginia Foxx (R)  • Incumbent • Winner,"$1,858,388","$1,944,629","$2,340,884",12/31/2020,NC,5,Virginia Foxx ,R,True,True
+386,1,David Wilson Brown (D),"$61,596","$60,668",-$228,12/31/2020,NC,5,David Wilson Brown ,D,False,False
+387,0,Kathy Manning (D)  • Winner,"$2,002,284","$1,695,596","$312,340",12/31/2020,NC,6,Kathy Manning ,D,False,True
+388,1,Joseph Lee Haywood (R),"$73,878","$58,342","$15,537",12/31/2020,NC,6,Joseph Lee Haywood ,R,False,False
+389,2,Jennyfer Bucardo (I),$750,$759,$10,02/12/2020,NC,6,Jennyfer Bucardo ,I,False,False
+390,0,David Rouzer (R)  • Incumbent • Winner,"$1,628,458","$1,038,883","$1,428,500",12/31/2020,NC,7,David Rouzer ,R,True,True
+391,1,Christopher Ward (D),"$16,260","$4,119","$7,249",09/30/2020,NC,7,Christopher Ward ,D,False,False
+392,0,Richard Hudson (R)  • Incumbent • Winner,"$4,135,872","$4,359,009","$230,918",12/31/2020,NC,8,Richard Hudson ,R,True,True
+393,1,Patricia Timmons-Goodson (D),"$3,855,743","$3,852,668","$3,075",12/31/2020,NC,8,Patricia Timmons-Goodson ,D,False,False
+394,0,Dan Bishop (R)  • Incumbent • Winner,"$4,090,260","$4,029,864","$60,396",12/31/2020,NC,9,Dan Bishop ,R,True,True
+395,1,Cynthia Wallace (D),"$811,609","$794,300","$17,310",12/31/2020,NC,9,Cynthia Wallace ,D,False,False
+396,0,Kelly Armstrong (R)  • Incumbent • Winner,"$1,269,346","$1,080,105","$305,708",12/31/2020,ND,1,Kelly Armstrong ,R,True,True
+397,1,Zach Raknerud (D),"$28,047","$26,029","$2,285",12/31/2020,ND,1,Zach Raknerud ,D,False,False
+398,0,Steve Chabot (R)  • Incumbent • Winner,"$3,177,647","$2,861,464","$34,508",12/31/2020,OH,1,Steve Chabot ,R,True,True
+399,1,Kate Schroder (D),"$4,040,303","$4,039,798",$505,12/31/2020,OH,1,Kate Schroder ,D,False,False
+400,2,Kevin Kahn (L),"$12,085","$8,398","$3,687",12/31/2020,OH,1,Kevin Kahn ,L,False,False
+401,0,Brad Wenstrup (R)  • Incumbent • Winner,"$1,794,354","$1,757,078","$461,246",12/31/2020,OH,2,Brad Wenstrup ,R,True,True
+402,1,Jaime Castle (D),"$284,197","$271,471","$12,726",12/31/2020,OH,2,Jaime Castle ,D,False,False
+403,0,Joyce Beatty (D)  • Incumbent • Winner,"$2,237,887","$2,540,687","$961,442",12/31/2020,OH,3,Joyce Beatty ,D,True,True
+404,1,Nicholas Moss (I),"$1,258","$1,248",$0,11/16/2020,OH,3,Nicholas Moss ,I,False,False
+405,0,Jim Jordan (R)  • Incumbent • Winner,"$18,313,823","$12,945,651","$6,113,812",12/31/2020,OH,4,Jim Jordan ,R,True,True
+406,1,Chris Gibbs (I),"$65,807","$65,807",$0,07/22/2020,OH,4,Chris Gibbs ,I,False,False
+407,0,Bob Latta (R)  • Incumbent • Winner,"$1,580,952","$1,477,090","$719,464",12/31/2020,OH,5,Bob Latta ,R,True,True
+408,1,Nick Rubando (D),"$249,319","$247,423","$1,996",11/24/2020,OH,5,Nick Rubando ,D,False,False
+409,0,Bill Johnson (R)  • Incumbent • Winner,"$1,866,123","$1,853,361","$858,830",12/31/2020,OH,6,Bill Johnson ,R,True,True
+410,1,Shawna Roberts (D),$262,$574,"$2,128",12/31/2019,OH,6,Shawna Roberts ,D,False,False
+411,0,Bob Gibbs (R)  • Incumbent • Winner,"$791,888","$453,928","$491,574",12/31/2020,OH,7,Bob Gibbs ,R,True,True
+412,1,Quentin Potter (D),"$12,976","$12,976",$0,12/18/2020,OH,7,Quentin Potter ,D,False,False
+413,2,Brandon Lape (L),"$3,348","$2,713",$635,12/31/2020,OH,7,Brandon Lape ,L,False,False
+414,0,Warren Davidson (R)  • Incumbent • Winner,"$1,016,740","$841,533","$404,715",12/31/2020,OH,8,Warren Davidson ,R,True,True
+415,1,Vanessa Enoch (D),"$40,270","$37,546","$12,877",09/30/2020,OH,8,Vanessa Enoch ,D,False,False
+416,0,Marcy Kaptur (D)  • Incumbent • Winner,"$1,090,395","$979,798","$772,396",12/31/2020,OH,9,Marcy Kaptur ,D,True,True
+417,1,Rob Weber (R),"$134,898","$123,262","$11,636",12/31/2020,OH,9,Rob Weber ,R,False,False
+418,0,Kevin Hern (R)  • Incumbent • Winner,"$1,094,104","$830,366","$345,198",12/31/2020,OK,1,Kevin Hern ,R,True,True
+419,1,Kojo Asamoa-Caesar (D),"$157,355","$173,928","-$5,637",12/31/2020,OK,1,Kojo Asamoa-Caesar ,D,False,False
+420,0,Markwayne Mullin (R)  • Incumbent • Winner,"$1,660,206","$1,077,939","$610,310",12/31/2020,OK,2,Markwayne Mullin ,R,True,True
+421,1,Danyell Lanier (D),"$41,730","$41,722",$7,12/31/2020,OK,2,Danyell Lanier ,D,False,False
+422,0,Frank D Lucas (R)  • Incumbent • Winner,"$872,749","$1,036,145","$282,179",12/31/2020,OK,3,Frank D Lucas ,R,True,True
+423,0,Tom Cole (R)  • Incumbent • Winner,"$1,812,530","$1,753,697","$1,277,189",12/31/2020,OK,4,Tom Cole ,R,True,True
+424,1,Mary Brannon (D),"-$2,084","$1,599","$1,734",12/30/2020,OK,4,Mary Brannon ,D,False,False
+425,0,Kendra Horn (D)  • Incumbent,"$5,949,800","$5,946,195","$103,097",12/31/2020,OK,5,Kendra Horn ,D,True,True
+426,1,Stephanie Bice (R)  • Winner,"$3,720,520","$3,508,929","$211,591",12/31/2020,OK,5,Stephanie Bice ,R,False,False
+427,0,Suzanne Bonamici (D)  • Incumbent • Winner,"$959,223","$864,627","$553,346",12/31/2020,OR,1,Suzanne Bonamici ,D,True,True
+428,1,Chris Christensen (R),$144,$672,$0,11/20/2020,OR,1,Chris Christensen ,R,False,False
+429,0,Cliff Bentz (R)  • Winner,"$1,450,780","$1,361,727","$89,054",12/31/2020,OR,2,Cliff Bentz ,R,False,True
+430,1,Alex Spenser (D),"$20,640","$5,089","$15,552",12/31/2020,OR,2,Alex Spenser ,D,False,False
+431,0,Earl Blumenauer (D)  • Incumbent • Winner,"$1,813,365","$1,948,453","$757,345",12/31/2020,OR,3,Earl Blumenauer ,D,True,True
+432,1,Joanna Harbour (R),"$17,681","$14,502","$3,179",12/31/2020,OR,3,Joanna Harbour ,R,False,False
+433,0,Peter DeFazio (D)  • Incumbent • Winner,"$5,182,843","$5,781,074","$517,595",12/31/2020,OR,4,Peter DeFazio ,D,True,True
+434,1,Alek Skarlatos (R),"$5,454,621","$5,331,264","$123,357",12/31/2020,OR,4,Alek Skarlatos ,R,False,False
+435,0,Kurt Schrader (D)  • Incumbent • Winner,"$2,018,692","$1,922,073","$2,516,499",12/31/2020,OR,5,Kurt Schrader ,D,True,True
+436,1,Amy Ryan Courser (R),"$231,624","$221,041","$10,471",12/31/2020,OR,5,Amy Ryan Courser ,R,False,False
+437,0,Brian Fitzpatrick (R)  • Incumbent • Winner,"$4,203,825","$4,272,135","$48,325",12/31/2020,PA,1,Brian Fitzpatrick ,R,True,True
+438,1,Christina Finello (D),"$2,336,814","$2,329,748","$7,066",12/31/2020,PA,1,Christina Finello ,D,False,False
+439,0,Brendan Boyle (D)  • Incumbent • Winner,"$1,556,650","$756,317","$1,468,741",12/31/2020,PA,2,Brendan Boyle ,D,True,True
+440,0,Dwight Evans (D)  • Incumbent • Winner,"$942,386","$781,265","$182,602",12/31/2020,PA,3,Dwight Evans ,D,True,True
+441,0,Madeleine Dean (D)  • Incumbent • Winner,"$1,435,995","$1,005,928","$574,594",12/31/2020,PA,4,Madeleine Dean ,D,True,True
+442,1,Kathy Barnette (R),"$1,000,389","$884,640","$115,749",12/31/2020,PA,4,Kathy Barnette ,R,False,False
+443,2,Joe Tarshish (I),"$24,038","$23,738",$300,12/31/2020,PA,4,Joe Tarshish ,I,False,False
+444,0,Mary Gay Scanlon (D)  • Incumbent • Winner,"$1,455,042","$1,350,276","$218,679",12/31/2020,PA,5,Mary Gay Scanlon ,D,True,True
+445,1,Dasha Pruett (R),"$105,146","$82,437","$22,709",12/31/2020,PA,5,Dasha Pruett ,R,False,False
+446,0,Chrissy Houlahan (D)  • Incumbent • Winner,"$3,484,484","$1,327,283","$3,109,257",12/31/2020,PA,6,Chrissy Houlahan ,D,True,True
+447,1,John Emmons (R),"$608,859","$601,390","$7,469",12/31/2020,PA,6,John Emmons ,R,False,False
+448,2,John McHugh (I),"$6,165","$4,410","$3,242",12/03/2020,PA,6,John McHugh ,I,False,False
+449,0,Susan Wild (D)  • Incumbent • Winner,"$4,581,056","$4,528,267","$78,696",12/31/2020,PA,7,Susan Wild ,D,True,True
+450,0,Matt Cartwright (D)  • Incumbent • Winner,"$3,885,136","$4,144,070","$170,866",12/31/2020,PA,8,Matt Cartwright ,D,True,True
+451,1,Jim Bognet (R),"$1,519,527","$1,386,040","$133,487",12/31/2020,PA,8,Jim Bognet ,R,False,False
+452,0,Dan Meuser (R)  • Incumbent • Winner,"$1,071,961","$944,010","$140,610",12/31/2020,PA,9,Dan Meuser ,R,True,True
+453,1,Gary Wegman (D),"$188,787","$187,348","$1,600",12/31/2020,PA,9,Gary Wegman ,D,False,False
+454,0,David Cicilline (D)  • Incumbent • Winner,"$1,574,854","$1,743,173","$529,048",12/31/2020,RI,1,David Cicilline ,D,True,True
+455,0,Jim Langevin (D)  • Incumbent • Winner,"$1,102,312","$1,422,339","$711,473",12/31/2020,RI,2,Jim Langevin ,D,True,True
+456,1,Bob Lancia (R),"$55,549","$47,877","$7,673",12/31/2020,RI,2,Bob Lancia ,R,False,False
+457,0,Joe Cunningham (D)  • Incumbent,"$6,941,746","$6,993,962","$6,372",12/31/2020,SC,1,Joe Cunningham ,D,True,True
+458,1,Nancy Mace (R)  • Winner,"$5,766,726","$5,707,239","$59,487",12/31/2020,SC,1,Nancy Mace ,R,False,False
+459,0,Joe Wilson (R)  • Incumbent • Winner,"$1,648,065","$1,723,956","$74,366",12/31/2020,SC,2,Joe Wilson ,R,True,True
+460,1,Adair Boroughs (D),"$2,510,526","$2,507,664","$2,862",12/31/2020,SC,2,Adair Boroughs ,D,False,False
+461,0,Jeff Duncan (R)  • Incumbent • Winner,"$1,509,647","$1,271,872","$482,411",12/31/2020,SC,3,Jeff Duncan ,R,True,True
+462,1,Hosea Cleveland (D),"$43,214","$45,107",$0,12/31/2020,SC,3,Hosea Cleveland ,D,False,False
+463,0,William Timmons (R)  • Incumbent • Winner,"$977,784","$982,233","$8,690",12/31/2020,SC,4,William Timmons ,R,True,True
+464,1,Kim Nelson (D),"$167,825","$167,508",$317,12/31/2020,SC,4,Kim Nelson ,D,False,False
+465,0,Ralph Norman (R)  • Incumbent • Winner,"$991,246","$859,747","$727,939",12/31/2020,SC,5,Ralph Norman ,R,True,True
+466,1,Moe Brown (D),"$480,648","$477,295","$3,353",12/31/2020,SC,5,Moe Brown ,D,False,False
+467,0,James E Clyburn (D)  • Incumbent • Winner,"$3,406,945","$2,332,128","$1,980,495",12/31/2020,SC,6,James E Clyburn ,D,True,True
+468,0,Tom Rice (R)  • Incumbent • Winner,"$1,405,738","$1,242,208","$1,121,354",12/31/2020,SC,7,Tom Rice ,R,True,True
+469,1,Melissa Watson (D),"$147,623","$147,623",$0,12/31/2020,SC,7,Melissa Watson ,D,False,False
+470,2,Larry Guy Hammond (L),$199,$199,$0,10/03/2020,SC,7,Larry Guy Hammond ,L,False,False
+471,0,Dusty Johnson (R)  • Incumbent • Winner,"$1,693,504","$699,356","$1,050,141",12/31/2020,SD,1,Dusty Johnson ,R,True,True
+472,0,Diana Harshbarger (R)  • Winner,"$2,126,946","$1,869,100","$257,846",12/31/2020,TN,1,Diana Harshbarger ,R,False,True
+473,1,Blair Nicole Walsingham (D),"$140,209","$134,995","$5,215",10/14/2020,TN,1,Blair Nicole Walsingham ,D,False,False
+474,0,Tim Burchett (R)  • Incumbent • Winner,"$1,336,276","$878,488","$593,678",12/31/2020,TN,2,Tim Burchett ,R,True,True
+475,1,Renee Hoyos (D),"$812,784","$816,793",$210,12/31/2020,TN,2,Renee Hoyos ,D,False,False
+476,0,Chuck Fleischmann (R)  • Incumbent • Winner,"$1,051,653","$381,411","$1,880,341",12/31/2020,TN,3,Chuck Fleischmann ,R,True,True
+477,1,Meg Gorman (D),"$85,843","$77,760","$8,083",12/31/2020,TN,3,Meg Gorman ,D,False,False
+478,0,Scott Desjarlais (R)  • Incumbent • Winner,"$331,464","$392,499","$302,649",12/31/2020,TN,4,Scott Desjarlais ,R,True,True
+479,1,Christopher Hale (D),"$308,731","$302,996","$5,735",12/31/2020,TN,4,Christopher Hale ,D,False,False
+480,0,Jim Cooper (D)  • Incumbent • Winner,"$936,569","$1,332,131","$272,934",12/31/2020,TN,5,Jim Cooper ,D,True,True
+481,0,John Rose (R)  • Incumbent • Winner,"$1,050,429","$625,688","$454,375",12/31/2020,TN,6,John Rose ,R,True,True
+482,0,Mark Green (R)  • Incumbent • Winner,"$1,194,960","$935,487","$287,889",12/31/2020,TN,7,Mark Green ,R,True,True
+483,1,Kiran Sreepada (D),"$206,644","$207,191",$0,12/31/2020,TN,7,Kiran Sreepada ,D,False,False
+484,2,Ronald Brown (I),"$1,750",$0,"$9,006",12/31/2020,TN,7,Ronald Brown ,I,False,False
+485,3,Scott Vieira Jr (I),$655,"$1,049",-$197,10/14/2020,TN,7,Scott Vieira Jr ,I,False,False
+486,0,David Kustoff (R)  • Incumbent • Winner,"$1,641,217","$999,285","$713,832",12/31/2020,TN,8,David Kustoff ,R,True,True
+487,1,Erika Stotts Pearson (D),"$19,070","$15,883","$4,137",12/31/2020,TN,8,Erika Stotts Pearson ,D,False,False
+488,0,Steve Cohen (D)  • Incumbent • Winner,"$607,570","$457,311","$1,216,119",12/31/2020,TN,9,Steve Cohen ,D,True,True
+489,1,Charlotte Bergmann (R),"$99,147","$100,532","$2,566",12/31/2020,TN,9,Charlotte Bergmann ,R,False,False
+490,2,Dennis Clark (I),"$9,991","$9,919",$40,11/23/2020,TN,9,Dennis Clark ,I,False,False
+491,0,Louis B Gohmert Jr. (R)  • Incumbent • Winner,"$552,915","$580,441","$33,662",12/31/2020,TX,1,False,False,False,True
+492,1,Hank Gilbert (D),"$968,155","$734,411","$233,744",12/31/2020,TX,1,Hank Gilbert ,D,False,False
+493,0,Dan Crenshaw (R)  • Incumbent • Winner,"$19,427,865","$17,596,329","$1,852,715",12/31/2020,TX,2,Dan Crenshaw ,R,True,True
+494,1,Sima Ladjevardian (D),"$3,832,697","$3,825,287","$7,410",12/31/2020,TX,2,Sima Ladjevardian ,D,False,False
+495,2,Elliott Scheirman (L),"$15,374","$14,296",-$942,11/23/2020,TX,2,Elliott Scheirman ,L,False,False
+496,0,Van Taylor (R)  • Incumbent • Winner,"$2,655,327","$2,825,378","$22,498",12/31/2020,TX,3,Van Taylor ,R,True,True
+497,1,Helane Seikaly (D),"$1,635,185","$1,634,843",$342,12/31/2020,TX,3,Helane Seikaly ,D,False,False
+498,0,Patrick Fallon (R)  • Winner,"$257,174","$95,065","$162,109",12/31/2020,TX,4,Patrick Fallon ,R,False,True
+499,1,Tracy Shawn Jones (I),"$13,002","$10,595","$2,407",12/31/2020,TX,4,Tracy Shawn Jones ,I,False,False
+500,0,Lance Gooden (R)  • Incumbent • Winner,"$1,610,327","$1,311,983","$452,535",12/31/2020,TX,5,Lance Gooden ,R,True,True
+501,1,Carolyn Salter (D),"$317,848","$289,112","$28,736",12/31/2020,TX,5,Carolyn Salter ,D,False,False
+502,2,Kevin Hale (L),"$18,405","$6,508","$11,678",10/14/2020,TX,5,Kevin Hale ,L,False,False
+503,0,Ron Wright (R)  • Incumbent • Winner,"$912,134","$907,693","$6,834",12/31/2020,TX,6,Ron Wright ,R,True,True
+504,1,Stephen Daniel (D),"$680,402","$677,568","$2,834",12/31/2020,TX,6,Stephen Daniel ,D,False,False
+505,0,Lizzie Fletcher (D)  • Incumbent • Winner,"$6,265,165","$6,246,136","$61,097",12/31/2020,TX,7,Lizzie Fletcher ,D,True,True
+506,1,Wesley Hunt (R),"$7,524,064","$7,300,122","$223,942",12/31/2020,TX,7,Wesley Hunt ,R,False,False
+507,0,Kevin Brady (R)  • Incumbent • Winner,"$3,570,477","$3,190,447","$1,102,667",12/31/2020,TX,8,Kevin Brady ,R,True,True
+508,1,Elizabeth Hernandez (D),"$17,227","$14,981","$1,985",10/14/2020,TX,8,Elizabeth Hernandez ,D,False,False
+509,0,Al Green (D)  • Incumbent • Winner,"$460,332","$486,155","$239,806",12/31/2020,TX,9,Al Green ,D,True,True
+510,1,Johnny Teague (R),"$89,965","$88,366",$150,12/31/2020,TX,9,Johnny Teague ,R,False,False
+511,0,Blake Moore (R)  • Winner,"$844,377","$816,015","$28,362",12/31/2020,UT,1,Blake Moore ,R,False,True
+512,1,Darren Parry (D),"$41,218","$40,904",$315,12/31/2020,UT,1,Darren Parry ,D,False,False
+513,0,Chris Stewart (R)  • Incumbent • Winner,"$835,139","$812,462","$164,694",12/31/2020,UT,2,Chris Stewart ,R,True,True
+514,1,John Kael Weston (D),"$344,774","$306,872","$37,905",12/31/2020,UT,2,John Kael Weston ,D,False,False
+515,2,Joe Jarvis (3),"$22,989","$22,989",$0,03/31/2020,UT,2,Joe Jarvis ,3,False,False
+516,0,John Curtis (R)  • Incumbent • Winner,"$874,311","$687,265","$351,305",12/31/2020,UT,3,John Curtis ,R,True,True
+517,1,Devin Thorpe (D),"$191,412","$190,200","$1,211",12/31/2020,UT,3,Devin Thorpe ,D,False,False
+518,2,Thomas G. McNeill (3),"$5,516","$5,516",$0,12/31/2020,UT,3,McNeill ,3,False,False
+519,3,Russel Fugal (I),$393,$346,$46,03/31/2020,UT,3,Russel Fugal ,I,False,False
+520,0,Ben McAdams (D)  • Incumbent,"$5,613,542","$5,555,591","$136,323",12/31/2020,UT,4,Ben McAdams ,D,True,True
+521,1,Burgess Owens (R)  • Winner,"$5,129,475","$5,049,146","$80,329",12/31/2020,UT,4,Burgess Owens ,R,False,False
+522,2,Jonia Broderick (3),"$21,394","$21,265","$1,002",10/23/2020,UT,4,Jonia Broderick ,3,False,False
+523,0,Peter Welch (D)  • Incumbent • Winner,"$847,320","$865,252","$2,107,307",12/31/2020,VT,1,Peter Welch ,D,True,True
+524,0,Rob Wittman (R)  • Incumbent • Winner,"$1,969,785","$2,140,375","$187,331",12/31/2020,VA,1,Rob Wittman ,R,True,True
+525,1,Qasim Rashid (D),"$1,559,108","$1,559,108",$0,12/30/2020,VA,1,Qasim Rashid ,D,False,False
+526,0,Elaine Luria (D)  • Incumbent • Winner,"$6,522,276","$6,387,474","$142,175",12/31/2020,VA,2,Elaine Luria ,D,True,True
+527,1,Scott Taylor (R),"$2,452,292","$2,446,410","$22,613",12/31/2020,VA,2,Scott Taylor ,R,False,False
+528,0,Bobby Scott (D)  • Incumbent • Winner,"$873,126","$832,419","$212,393",12/31/2020,VA,3,Bobby Scott ,D,True,True
+529,1,John Collick (R),"$167,146","$165,080","$2,189",12/31/2020,VA,3,John Collick ,R,False,False
+530,0,Donald McEachin (D)  • Incumbent • Winner,"$961,412","$963,788","$209,132",12/31/2020,VA,4,Donald McEachin ,D,True,True
+531,1,Leon Benjamin (R),"$545,354","$523,429","$21,925",12/31/2020,VA,4,Leon Benjamin ,R,False,False
+532,0,Cameron Webb (D),"$5,755,917","$5,750,924","$4,993",12/31/2020,VA,5,Cameron Webb ,D,False,True
+533,1,Bob Good (R)  • Winner,"$1,373,867","$1,323,530","$50,336",12/31/2020,VA,5,Bob Good ,R,False,False
+534,0,Ben Cline (R)  • Incumbent • Winner,"$892,955","$672,928","$238,774",12/31/2020,VA,6,Ben Cline ,R,True,True
+535,1,Nicholas Betts (D),"$56,190","$54,205",$0,12/31/2020,VA,6,Nicholas Betts ,D,False,False
+536,0,Abigail Spanberger (D)  • Incumbent • Winner,"$8,387,680","$7,852,213","$582,133",12/31/2020,VA,7,Abigail Spanberger ,D,True,True
+537,1,Nick Freitas (R),"$3,629,431","$3,600,108","$29,323",12/31/2020,VA,7,Nick Freitas ,R,False,False
+538,0,Don Beyer (D)  • Incumbent • Winner,"$1,729,482","$2,071,906","$640,022",12/31/2020,VA,8,Don Beyer ,D,True,True
+539,1,Jeff Jordan (R),"$96,035","$96,035",$0,11/23/2020,VA,8,Jeff Jordan ,R,False,False
+540,2,Heerak Christian Kim (I),"$2,036","$1,921",$114,12/31/2020,VA,8,Heerak Christian Kim ,I,False,False
+541,0,Morgan Griffith (R)  • Incumbent • Winner,"$873,612","$463,916","$421,442",12/31/2020,VA,9,Morgan Griffith ,R,True,True
+542,0,Suzan DelBene (D)  • Incumbent • Winner,"$2,182,985","$1,897,162","$1,339,118",12/31/2020,WA,1,Suzan DelBene ,D,True,True
+543,1,Jeffrey Beeler (R),"$61,970","$62,279","$4,040",12/31/2020,WA,1,Jeffrey Beeler ,R,False,False
+544,0,Rick Larsen (D)  • Incumbent • Winner,"$1,275,127","$1,219,489","$327,798",12/31/2020,WA,2,Rick Larsen ,D,True,True
+545,1,Tim Hazelo (R),"$49,478","$49,322",$156,12/31/2020,WA,2,Tim Hazelo ,R,False,False
+546,0,Jaime Herrera Beutler (R)  • Incumbent • Winner,"$4,566,383","$4,540,148","$75,202",12/31/2020,WA,3,Jaime Herrera Beutler ,R,True,True
+547,1,Carolyn Long (D),"$4,130,540","$4,142,685","$18,007",12/31/2020,WA,3,Carolyn Long ,D,False,False
+548,0,Dan Newhouse (R)  • Incumbent • Winner,"$1,173,464","$991,174","$299,719",12/31/2020,WA,4,Dan Newhouse ,R,True,True
+549,1,Doug McKinley (D),"$57,666","$54,227","$3,440",12/31/2020,WA,4,Doug McKinley ,D,False,False
+550,0,Cathy McMorris Rodgers (R)  • Incumbent • Winner,"$4,349,448","$3,432,572","$1,075,550",12/31/2020,WA,5,Cathy McMorris Rodgers ,R,True,True
+551,1,Dave Wilson (D),"$109,636","$109,636",$0,11/17/2020,WA,5,Dave Wilson ,D,False,False
+552,0,Derek Kilmer (D)  • Incumbent • Winner,"$2,524,026","$2,531,111","$2,988,099",12/31/2020,WA,6,Derek Kilmer ,D,True,True
+553,1,Elizabeth Kreiselmaier (R),"$156,123","$145,108","$11,015",12/31/2020,WA,6,Elizabeth Kreiselmaier ,R,False,False
+554,0,Pramila Jayapal (D)  • Incumbent • Winner,"$2,630,000","$1,530,626","$1,783,613",12/31/2020,WA,7,Pramila Jayapal ,D,True,True
+555,1,Craig Keller (R),"$2,904","$3,703",$14,12/31/2020,WA,7,Craig Keller ,R,False,False
+556,0,Kim Schrier (D)  • Incumbent • Winner,"$5,422,491","$3,774,398","$1,717,753",12/31/2020,WA,8,Kim Schrier ,D,True,True
+557,1,Jesse Jensen (R),"$852,396","$842,269","$10,127",12/31/2020,WA,8,Jesse Jensen ,R,False,False
+558,0,Adam Smith (D)  • Incumbent • Winner,"$1,324,761","$930,710","$585,828",12/31/2020,WA,9,Adam Smith ,D,True,True
+559,1,Doug Basler (R),"$22,536","$18,328","$4,790",12/31/2020,WA,9,Doug Basler ,R,False,False
+560,0,David McKinley (R)  • Incumbent • Winner,"$1,092,609","$1,085,864","$393,211",12/31/2020,WV,1,David McKinley ,R,True,True
+561,1,Natalie Ms. Cline (D),"$81,032","$81,881",$0,12/15/2020,WV,1,Cline ,D,False,False
+562,0,Alex Mooney (R)  • Incumbent • Winner,"$2,155,978","$864,001","$2,308,154",12/31/2020,WV,2,Alex Mooney ,R,True,True
+563,1,Catherine Kunkel (D),"$641,567","$641,567",$0,12/04/2020,WV,2,Catherine Kunkel ,D,False,False
+564,0,Carol Miller (R)  • Incumbent • Winner,"$869,210","$720,796","$167,007",12/31/2020,WV,3,Carol Miller ,R,True,True
+565,1,Hilary Turner (D),"$99,214","$98,769",$446,12/31/2020,WV,3,Hilary Turner ,D,False,False
+566,2,Belinda Fox-Spencer (I),"$5,207","$5,207",$0,11/23/2020,WV,3,Belinda Fox-Spencer ,I,False,False
+567,0,Bryan Steil (R)  • Incumbent • Winner,"$3,500,849","$3,151,701","$375,503",12/31/2020,WI,1,Bryan Steil ,R,True,True
+568,1,Roger Polack (D),"$536,228","$526,431","$9,797",12/31/2020,WI,1,Roger Polack ,D,False,False
+569,0,Mark Pocan (D)  • Incumbent • Winner,"$1,290,582","$1,014,628","$851,013",12/31/2020,WI,2,Mark Pocan ,D,True,True
+570,1,Peter Theron (R),"$35,753","$33,977","$4,722",12/31/2020,WI,2,Peter Theron ,R,False,False
+571,0,Ron Kind (D)  • Incumbent • Winner,"$2,989,262","$4,435,403","$877,172",12/31/2020,WI,3,Ron Kind ,D,True,True
+572,1,Derrick Van Orden (R),"$1,962,443","$1,948,639","$13,804",12/31/2020,WI,3,Derrick Van Orden ,R,False,False
+573,0,Gwen Moore (D)  • Incumbent • Winner,"$1,183,995","$1,166,739","$34,000",12/31/2020,WI,4,Gwen Moore ,D,True,True
+574,0,Scott Fitzgerald (R)  • Winner,"$1,155,721","$968,406","$187,315",12/31/2020,WI,5,Scott Fitzgerald ,R,False,True
+575,1,Tom Palzewicz (D),"$370,392","$371,799",$0,12/31/2020,WI,5,Tom Palzewicz ,D,False,False
+576,0,Glenn S Grothman (R)  • Incumbent • Winner,"$1,815,756","$1,736,659","$269,431",12/31/2020,WI,6,Glenn S Grothman ,R,True,True
+577,1,Jessica King (D),"$287,753","$245,788","$41,965",12/31/2020,WI,6,Jessica King ,D,False,False
+578,0,Tom Tiffany (R)  • Incumbent • Winner,"$2,637,459","$2,514,740","$122,719",12/31/2020,WI,7,Tom Tiffany ,R,True,True
+579,1,Tricia Zunker (D),"$1,261,957","$1,232,690","$29,267",12/31/2020,WI,7,Tricia Zunker ,D,False,False
+580,0,Mike Gallagher (R)  • Incumbent • Winner,"$3,202,905","$2,841,801","$1,169,362",12/31/2020,WI,8,Mike Gallagher ,R,True,True
+581,1,Amanda Stuck (D),"$416,978","$399,916","$2,165",12/31/2020,WI,8,Amanda Stuck ,D,False,False
+582,0,Liz Cheney (R)  • Incumbent • Winner,"$3,003,883","$3,060,167","$153,567",12/31/2020,WY,1,Liz Cheney ,R,True,True
+583,1,Lynnette Grey Bull (D),"$134,597","$132,235","$2,363",12/31/2020,WY,1,Lynnette Grey Bull ,D,False,False
+584,0,Josh Harder (D)  • Incumbent • Winner,"$7,400,135","$3,950,613","$3,469,763",12/31/2020,CA,10,Josh Harder ,D,True,True
+585,1,Ted Howze (R),"$1,426,552","$1,721,882","$14,241",12/31/2020,CA,10,Ted Howze ,R,False,False
+586,0,Mark Desaulnier (D)  • Incumbent • Winner,"$610,394","$440,537","$481,388",12/31/2020,CA,11,Mark Desaulnier ,D,True,True
+587,1,Nisha Sharma (R),"$174,954","$171,870","$3,085",12/31/2020,CA,11,Nisha Sharma ,R,False,False
+588,0,Nancy Pelosi (D)  • Incumbent • Winner,"$27,359,508","$22,064,953","$6,299,373",12/31/2020,CA,12,Nancy Pelosi ,D,True,True
+589,1,Shahid Buttar (D),"$1,672,876","$1,650,467","$22,417",12/31/2020,CA,12,Shahid Buttar ,D,False,False
+590,0,Barbara Lee (D)  • Incumbent • Winner,"$1,828,213","$1,750,142","$210,374",12/31/2020,CA,13,Barbara Lee ,D,True,True
+591,1,Nikka Piterman (R),"$9,839","$9,904","$1,293",12/31/2020,CA,13,Nikka Piterman ,R,False,False
+592,0,Jackie Speier (D)  • Incumbent • Winner,"$942,934","$919,599","$1,779,772",12/31/2020,CA,14,Jackie Speier ,D,True,True
+593,0,Eric Swalwell (D)  • Incumbent • Winner,"$2,807,774","$3,977,839","$502,929",12/31/2020,CA,15,Eric Swalwell ,D,True,True
+594,0,Jim Costa (D)  • Incumbent • Winner,"$2,135,525","$1,835,244","$410,171",12/31/2020,CA,16,Jim Costa ,D,True,True
+595,1,Kevin Cookingham (R),"$265,364","$265,364",$0,12/31/2020,CA,16,Kevin Cookingham ,R,False,False
+596,0,Ro Khanna (D)  • Incumbent • Winner,"$3,837,982","$2,455,457","$2,261,128",12/31/2020,CA,17,Ro Khanna ,D,True,True
+597,1,Ritesh Tandon (R),"$175,536","$175,015",$522,12/31/2020,CA,17,Ritesh Tandon ,R,False,False
+598,0,Anna Eshoo (D)  • Incumbent • Winner,"$2,114,909","$2,059,158","$552,799",12/31/2020,CA,18,Anna Eshoo ,D,True,True
+599,1,Rishi Kumar (D),"$674,383","$691,938","-$17,555",12/31/2020,CA,18,Rishi Kumar ,D,False,False
+600,0,Zoe Lofgren (D)  • Incumbent • Winner,"$1,755,555","$1,731,700","$1,160,537",12/31/2020,CA,19,Zoe Lofgren ,D,True,True
+601,1,Justin Aguilera (R),"$9,112","$11,542","$1,441",12/31/2020,CA,19,Justin Aguilera ,R,False,False
+602,0,Jimmy Panetta (D)  • Incumbent • Winner,"$2,009,894","$1,592,671","$1,175,357",12/31/2020,CA,20,Jimmy Panetta ,D,True,True
+603,1,Jeff Gorman (R),"$67,634","$64,947","$2,687",12/31/2020,CA,20,Jeff Gorman ,R,False,False
+604,0,TJ Cox (D)  • Incumbent,"$5,695,157","$5,694,005","$55,943",12/31/2020,CA,21,TJ Cox ,D,True,True
+605,1,David Valadao (R)  • Winner,"$4,067,880","$3,982,587","$164,211",12/31/2020,CA,21,David Valadao ,R,False,False
+606,0,Devin Nunes (R)  • Incumbent • Winner,"$26,825,212","$20,156,093","$10,908,033",12/31/2020,CA,22,Devin Nunes ,R,True,True
+607,1,Phil Arballo (D),"$5,091,451","$5,062,185","$29,266",12/31/2020,CA,22,Phil Arballo ,D,False,False
+608,0,Kevin McCarthy (R)  • Incumbent • Winner,"$27,780,644","$24,265,583","$4,802,133",12/31/2020,CA,23,Kevin McCarthy ,R,True,True
+609,1,Kim Mangone (D),"$1,671,101","$1,665,373","$5,728",12/31/2020,CA,23,Kim Mangone ,D,False,False
+610,0,Salud Carbajal (D)  • Incumbent • Winner,"$2,117,836","$1,451,622","$1,400,705",12/31/2020,CA,24,Salud Carbajal ,D,True,True
+611,1,Andy Caldwell (R),"$1,298,798","$1,268,199","$34,587",12/31/2020,CA,24,Andy Caldwell ,R,False,False
+612,0,Mike Garcia (R)  • Incumbent • Winner,"$9,962,507","$9,584,648","$377,858",12/31/2020,CA,25,Mike Garcia ,R,True,True
+613,1,Christy Smith (D),"$5,977,734","$5,808,477","$169,258",12/31/2020,CA,25,Christy Smith ,D,False,False
+614,0,Julia Brownley (D)  • Incumbent • Winner,"$1,976,695","$1,314,677","$3,113,430",12/31/2020,CA,26,Julia Brownley ,D,True,True
+615,1,Ronda Kennedy (R),"$246,226","$67,208","$177,973",10/14/2020,CA,26,Ronda Kennedy ,R,False,False
+616,0,Judy Chu (D)  • Incumbent • Winner,"$1,213,706","$956,298","$2,781,770",12/31/2020,CA,27,Judy Chu ,D,True,True
+617,1,Johnny Nalbandian (R),"$39,584","$39,159",$462,12/31/2020,CA,27,Johnny Nalbandian ,R,False,False
+618,0,Adam Schiff (D)  • Incumbent • Winner,"$19,382,855","$10,188,664","$13,908,271",12/31/2020,CA,28,Adam Schiff ,D,True,True
+619,1,Eric Early (R),"$4,085,322","$3,790,027","$295,295",12/31/2020,CA,28,Eric Early ,R,False,False
+620,0,Tony Cardenas (D)  • Incumbent • Winner,"$1,419,697","$1,213,588","$529,789",12/31/2020,CA,29,Tony Cardenas ,D,True,True
+621,1,Angelica Duenas (3),"$78,083","$76,627","$1,456",12/31/2020,CA,29,Angelica Duenas ,3,False,False
+622,0,Brad Sherman (D)  • Incumbent • Winner,"$1,513,374","$1,111,826","$2,624,621",12/31/2020,CA,30,Brad Sherman ,D,True,True
+623,0,Pete Aguilar (D)  • Incumbent • Winner,"$2,475,748","$1,861,434","$1,839,594",12/31/2020,CA,31,Pete Aguilar ,D,True,True
+624,1,Agnes Gibboney (R),"$138,687","$127,907","$10,780",12/31/2020,CA,31,Agnes Gibboney ,R,False,False
+625,0,Grace Napolitano (D)  • Incumbent • Winner,"$478,426","$251,047","$533,330",12/31/2020,CA,32,Grace Napolitano ,D,True,True
+626,1,Joshua Scott (R),"$23,624","$14,248","$10,155",12/31/2020,CA,32,Joshua Scott ,R,False,False
+627,0,Ted Lieu (D)  • Incumbent • Winner,"$1,661,436","$1,582,573","$1,944,364",12/31/2020,CA,33,Ted Lieu ,D,True,True
+628,1,James Bradley (R),"$78,910","$79,035",$0,12/31/2020,CA,33,James Bradley ,R,False,False
+629,0,Jimmy Gomez (D)  • Incumbent • Winner,"$1,401,166","$1,268,312","$489,519",12/31/2020,CA,34,Jimmy Gomez ,D,True,True
+630,1,David Kim (D),"$193,430","$80,381","$99,638",11/23/2020,CA,34,David Kim ,D,False,False
+631,0,Norma Torres (D)  • Incumbent • Winner,"$654,727","$664,600","$207,654",12/31/2020,CA,35,Norma Torres ,D,True,True
+632,1,Mike Cargile (R),"$36,113","$35,915",$198,12/31/2020,CA,35,Mike Cargile ,R,False,False
+633,0,Raul Ruiz (D)  • Incumbent • Winner,"$2,402,624","$1,732,443","$2,316,172",12/31/2020,CA,36,Raul Ruiz ,D,True,True
+634,1,Erin Cruz (R),"$54,217","$53,840",$782,12/31/2020,CA,36,Erin Cruz ,R,False,False
+635,0,Karen Bass (D)  • Incumbent • Winner,"$2,216,467","$1,202,942","$1,325,864",12/31/2020,CA,37,Karen Bass ,D,True,True
+636,1,Errol Webber (R),"$66,398","$174,076",$0,12/31/2020,CA,37,Errol Webber ,R,False,False
+637,0,Linda Sanchez (D)  • Incumbent • Winner,"$1,246,008","$1,140,165","$840,983",12/31/2020,CA,38,Linda Sanchez ,D,True,True
+638,0,Gil Cisneros (D)  • Incumbent,"$4,370,133","$4,350,464","$101,108",12/31/2020,CA,39,Gil Cisneros ,D,True,True
+639,1,Young Kim (R)  • Winner,"$6,424,556","$6,021,651","$408,239",12/31/2020,CA,39,Young Kim ,R,False,False
+640,0,Lucille Roybal-Allard (D)  • Incumbent • Winner,"$739,790","$741,379","$38,543",12/31/2020,CA,40,Lucille Roybal-Allard ,D,True,True
+641,1,Antonio Delgado (R),"$85,014","$79,270","$5,744",12/31/2020,CA,40,Antonio Delgado ,R,False,False
+642,0,Mark Takano (D)  • Incumbent • Winner,"$1,020,456","$949,494","$163,964",12/31/2020,CA,41,Mark Takano ,D,True,True
+643,1,Aja Smith (R),"$660,658","$659,909","$1,016",12/31/2020,CA,41,Aja Smith ,R,False,False
+644,0,Ken Calvert (R)  • Incumbent • Winner,"$1,441,812","$1,549,113","$410,599",12/31/2020,CA,42,Ken Calvert ,R,True,True
+645,1,Liam O'Mara (D),"$130,065","$128,782","$1,283",12/31/2020,CA,42,Liam O'Mara ,D,False,False
+646,0,Maxine Waters (D)  • Incumbent • Winner,"$1,836,660","$1,906,957","$320,867",12/31/2020,CA,43,Maxine Waters ,D,True,True
+647,1,Joe Collins (R),"$10,556,626","$9,921,103","$635,523",12/31/2020,CA,43,Joe Collins ,R,False,False
+648,0,Nanette Barragan (D)  • Incumbent • Winner,"$1,173,909","$714,023","$1,050,752",12/31/2020,CA,44,Nanette Barragan ,D,True,True
+649,0,Katie Porter (D)  • Incumbent • Winner,"$16,627,706","$6,443,700","$10,267,752",12/31/2020,CA,45,Katie Porter ,D,True,True
+650,1,Greg Raths (R),"$1,245,767","$1,241,713","$1,998",12/31/2020,CA,45,Greg Raths ,R,False,False
+651,0,Lou Correa (D)  • Incumbent • Winner,"$1,192,715","$650,707","$1,145,701",12/31/2020,CA,46,Lou Correa ,D,True,True
+652,0,Alan Lowenthal (D)  • Incumbent • Winner,"$678,648","$854,902","$393,035",12/31/2020,CA,47,Alan Lowenthal ,D,True,True
+653,1,John Briscoe (R),"$25,302","$21,538","$10,390",12/31/2020,CA,47,John Briscoe ,R,False,False
+654,0,Harley Rouda (D)  • Incumbent,"$5,968,858","$6,174,443","$70,080",12/31/2020,CA,48,Harley Rouda ,D,True,True
+655,1,Michelle Steel (R)  • Winner,"$6,305,665","$6,148,591","$157,074",12/31/2020,CA,48,Michelle Steel ,R,False,False
+656,0,Mike Levin (D)  • Incumbent • Winner,"$3,845,768","$2,901,566","$1,502,261",12/31/2020,CA,49,Mike Levin ,D,True,True
+657,1,Brian Maryott (R),"$2,810,253","$2,808,217","$11,794",12/31/2020,CA,49,Brian Maryott ,R,False,False
+658,0,Darrell Issa (R)  • Winner,"$11,239,670","$10,947,106","$292,563",12/31/2020,CA,50,Darrell Issa ,R,False,True
+659,1,Ammar Campa-Najjar (D),"$6,248,210","$6,247,762","$3,438",12/31/2020,CA,50,Ammar Campa-Najjar ,D,False,False
+660,0,Juan Vargas (D)  • Incumbent • Winner,"$799,734","$801,671","$69,739",12/31/2020,CA,51,Juan Vargas ,D,True,True
+661,1,Juan Hidalgo (R),"$83,730","$81,182","-$8,419",12/31/2020,CA,51,Juan Hidalgo ,R,False,False
+662,0,Scott Peters (D)  • Incumbent • Winner,"$1,911,791","$2,131,849","$1,581,118",12/31/2020,CA,52,Scott Peters ,D,True,True
+663,1,James Debello (R),"$233,464","$224,630","$8,835",12/31/2020,CA,52,James Debello ,R,False,False
+664,0,Sara Jacobs (D)  • Winner,"$7,678,363","$7,586,186","$102,167",12/31/2020,CA,53,Sara Jacobs ,D,False,True
+665,1,Georgette Gomez (D),"$1,691,794","$1,663,252","$28,542",12/31/2020,CA,53,Georgette Gomez ,D,False,False
+666,0,Val Demings (D)  • Incumbent • Winner,"$1,876,047","$1,191,020","$771,422",12/31/2020,FL,10,Val Demings ,D,True,True
+667,1,Vennia Francois (R),"$335,480","$332,852","$9,289",12/31/2020,FL,10,Vennia Francois ,R,False,False
+668,2,Kristofer Steven Lawson (I),$47,$47,$0,06/30/2020,FL,10,Kristofer Steven Lawson ,I,False,False
+669,0,Daniel Webster (R)  • Incumbent • Winner,"$691,261","$586,965","$210,702",12/31/2020,FL,11,Daniel Webster ,R,True,True
+670,1,Dana Cottrell (D),"$62,658","$62,380",$0,12/02/2020,FL,11,Dana Cottrell ,D,False,False
+671,0,Gus Bilirakis (R)  • Incumbent • Winner,"$1,604,137","$1,548,634","$75,110",12/31/2020,FL,12,Gus Bilirakis ,R,True,True
+672,1,Kim Walker (D),"$42,802","$33,544","$9,258",12/31/2020,FL,12,Kim Walker ,D,False,False
+673,0,Charlie Crist (D)  • Incumbent • Winner,"$2,720,646","$3,980,695","$419,008",12/31/2020,FL,13,Charlie Crist ,D,True,True
+674,1,Anna Paulina Luna (R),"$3,302,944","$3,262,236","$40,708",12/31/2020,FL,13,Anna Paulina Luna ,R,False,False
+675,0,Kathy Castor (D)  • Incumbent • Winner,"$884,651","$1,201,653","$423,402",12/31/2020,FL,14,Kathy Castor ,D,True,True
+676,1,Christine Quinn (R),"$242,144","$241,187",$958,12/31/2020,FL,14,Christine Quinn ,R,False,False
+677,0,Alan Cohn (D),"$2,333,053","$2,300,197","$32,856",12/31/2020,FL,15,Alan Cohn ,D,False,True
+678,1,Scott Franklin (R)  • Winner,"$1,663,898","$1,638,417","$25,481",12/31/2020,FL,15,Scott Franklin ,R,False,False
+679,0,Vernon Buchanan (R)  • Incumbent • Winner,"$3,094,611","$3,100,766","$73,085",12/31/2020,FL,16,Vernon Buchanan ,R,True,True
+680,1,Margaret Good (D),"$3,411,924","$3,407,845","$4,080",12/31/2020,FL,16,Margaret Good ,D,False,False
+681,0,Greg Steube (R)  • Incumbent • Winner,"$759,908","$621,200","$323,776",12/31/2020,FL,17,Greg Steube ,R,True,True
+682,1,Allen Ellison (D),"$83,481","$78,243","$6,156",12/31/2020,FL,17,Allen Ellison ,D,False,False
+683,0,Brian Mast (R)  • Incumbent • Winner,"$6,128,177","$5,301,307","$994,362",12/31/2020,FL,18,Brian Mast ,R,True,True
+684,1,Pam Keith (D),"$1,639,873","$1,632,736","$7,137",12/31/2020,FL,18,Pam Keith ,D,False,False
+685,0,Byron Donalds (R)  • Winner,"$3,219,579","$2,738,685","$480,894",12/31/2020,FL,19,Byron Donalds ,R,False,True
+686,1,Cindy Banyai (D),"$214,750","$203,430","$11,320",12/31/2020,FL,19,Cindy Banyai ,D,False,False
+687,0,Alcee Hastings (D)  • Incumbent • Winner,"$607,649","$543,316","$149,865",12/31/2020,FL,20,Alcee Hastings ,D,True,True
+688,1,Greg Musselwhite (R),"$28,955","$27,538","$1,418",12/31/2020,FL,20,Greg Musselwhite ,R,False,False
+689,0,Lois J Frankel (D)  • Incumbent • Winner,"$1,534,882","$1,309,786","$1,192,171",12/31/2020,FL,21,Lois J Frankel ,D,True,True
+690,1,Laura Loomer (R),"$2,271,604","$2,240,689","$30,915",12/31/2020,FL,21,Laura Loomer ,R,False,False
+691,2,Charleston Malkemus (I),"$28,928","$28,636",$292,12/31/2020,FL,21,Charleston Malkemus ,I,False,False
+692,0,Ted Deutch (D)  • Incumbent • Winner,"$1,364,438","$1,265,494","$459,816",12/31/2020,FL,22,Ted Deutch ,D,True,True
+693,1,Jim Pruden (R),"$278,416","$278,416",$0,11/30/2020,FL,22,Jim Pruden ,R,False,False
+694,0,Debbie Wasserman Schultz (D)  • Incumbent • Winner,"$2,191,922","$1,979,903","$616,233",12/31/2020,FL,23,Debbie Wasserman Schultz ,D,True,True
+695,1,Carla Spalding (R),"$919,579","$903,561","$16,018",12/31/2020,FL,23,Carla Spalding ,R,False,False
+696,0,Frederica Wilson (D)  • Incumbent • Winner,"$412,592","$321,019","$420,585",12/31/2020,FL,24,Frederica Wilson ,D,True,True
+697,1,Lavern Spicer (R),"$34,973","$34,909",$64,12/31/2020,FL,24,Lavern Spicer ,R,False,False
+698,2,Christine Olivo (I),"$31,646","$32,898",-$956,11/23/2020,FL,24,Christine Olivo ,I,False,False
+699,0,Mario Diaz-Balart (R)  • Incumbent • Winner,"$1,590,134","$804,054","$933,244",12/31/2020,FL,25,Mario Diaz-Balart ,R,True,True
+700,0,Debbie Mucarsel-Powell (D)  • Incumbent,"$6,793,521","$6,822,740","$10,598",12/31/2020,FL,26,Debbie Mucarsel-Powell ,D,True,True
+701,1,Carlos Gimenez (R)  • Winner,"$2,226,559","$2,187,389","$39,171",12/31/2020,FL,26,Carlos Gimenez ,R,False,False
+702,0,Donna Shalala (D)  • Incumbent,"$3,842,907","$3,735,966","$169,728",12/31/2020,FL,27,Donna Shalala ,D,True,True
+703,1,Maria Salazar (R)  • Winner,"$3,654,190","$3,645,814","$21,258",12/31/2020,FL,27,Maria Salazar ,R,False,False
+704,2,Frank Polo (I),"$4,606","$4,662",-$56,11/06/2020,FL,27,Frank Polo ,I,False,False
+705,0,Jody Hice (R)  • Incumbent • Winner,"$595,947","$457,648","$249,916",12/31/2020,GA,10,Jody Hice ,R,True,True
+706,1,Tabitha Johnson-Green (D),"$14,808","$12,214",-$8,12/31/2020,GA,10,Tabitha Johnson-Green ,D,False,False
+707,0,Barry Loudermilk (R)  • Incumbent • Winner,"$877,767","$700,851","$372,832",12/31/2020,GA,11,Barry Loudermilk ,R,True,True
+708,1,Dana Barrett (D),"$404,625","$394,977","$9,648",12/31/2020,GA,11,Dana Barrett ,D,False,False
+709,0,Richard W Allen (R)  • Incumbent • Winner,"$1,228,970","$662,818","$646,909",12/31/2020,GA,12,Richard W Allen ,R,True,True
+710,1,Liz Johnson (D),"$72,061","$72,061",$0,12/31/2020,GA,12,Liz Johnson ,D,False,False
+711,0,David Scott (D)  • Incumbent • Winner,"$1,209,614","$1,131,746","$453,846",12/31/2020,GA,13,David Scott ,D,True,True
+712,1,Becky Hites (R),"$63,509","$62,935",$574,12/31/2020,GA,13,Becky Hites ,R,False,False
+713,2,Martin Cowen (L),"$13,460","$13,464",$80,12/31/2020,GA,13,Martin Cowen ,L,False,False
+714,0,Marjorie Taylor Greene (R)  • Winner,"$2,596,914","$2,237,599","$359,316",12/31/2020,GA,14,Marjorie Taylor Greene ,R,False,True
+715,0,Brad Schneider (D)  • Incumbent • Winner,"$3,459,512","$2,873,333","$1,873,763",12/31/2020,IL,10,Brad Schneider ,D,True,True
+716,1,Valerie Ramirez Mukherjee (R),"$130,225","$64,764","$65,461",12/31/2020,IL,10,Valerie Ramirez Mukherjee ,R,False,False
+717,0,Bill Foster (D)  • Incumbent • Winner,"$2,381,354","$1,823,906","$3,736,201",12/31/2020,IL,11,Bill Foster ,D,True,True
+718,1,Rick Laib (R),"$20,343","$20,064",$279,12/31/2020,IL,11,Rick Laib ,R,False,False
+719,0,Mike Bost (R)  • Incumbent • Winner,"$1,918,041","$1,509,573","$413,789",12/31/2020,IL,12,Mike Bost ,R,True,True
+720,1,Ray Lenzi (D),"$161,324","$104,809","$57,903",11/23/2020,IL,12,Ray Lenzi ,D,False,False
+721,0,Rodney Davis (R)  • Incumbent • Winner,"$4,943,459","$4,822,600","$140,436",12/31/2020,IL,13,Rodney Davis ,R,True,True
+722,1,Betsy Dirksen Londrigan (D),"$5,297,007","$5,281,880","$15,895",12/31/2020,IL,13,Betsy Dirksen Londrigan ,D,False,False
+723,0,Lauren A Underwood (D)  • Incumbent • Winner,"$7,803,579","$7,301,503","$537,898",12/31/2020,IL,14,Lauren A Underwood ,D,True,True
+724,1,Jim Oberweis (R),"$2,438,857","$2,348,798","$90,059",12/31/2020,IL,14,Jim Oberweis ,R,False,False
+725,0,Mary Miller (R)  • Winner,"$689,057","$570,356","$118,701",12/31/2020,IL,15,Mary Miller ,R,False,True
+726,1,Erika Weaver (D),"$58,689","$23,349","-$2,772",10/14/2020,IL,15,Erika Weaver ,D,False,False
+727,0,Adam Kinzinger (R)  • Incumbent • Winner,"$2,105,736","$1,588,550","$1,523,650",12/31/2020,IL,16,Adam Kinzinger ,R,True,True
+728,1,Dani Brzozowski (D),"$459,344","$376,167",-$314,12/31/2020,IL,16,Dani Brzozowski ,D,False,False
+729,0,Cheri Bustos (D)  • Incumbent • Winner,"$4,975,192","$6,391,009","$918,624",12/31/2020,IL,17,Cheri Bustos ,D,True,True
+731,0,Darin LaHood (R)  • Incumbent • Winner,"$3,248,113","$1,749,128","$3,090,571",12/31/2020,IL,18,Darin LaHood ,R,True,True
+732,0,John Shimkus (R)  • Incumbent • Winner (71.2% of vote),"$1,845,128","$1,852,867","$1,135,183",12/31/2010,IL,19,John Shimkus ,R,True,True
+733,1,Tim Bagwell (D)  (28.8% of vote),"$17,763","$17,649","$1,037",12/31/2010,IL,19,Tim Bagwell ,D,True,False
+734,0,Bill Keating (D)  • Winner (46.9% of vote),"$1,508,869","$1,505,516","$3,353",12/31/2010,MA,10,Bill Keating ,D,True,True
+735,1,Jeff Perry (R)  (42.4% of vote),"$1,292,757","$1,229,158","$63,599",12/31/2010,MA,10,Jeff Perry ,R,True,False
+736,2,Maryanne Lewis (I)  (6.0% of vote),"$85,144","$84,052","-$5,294",12/31/2010,MA,10,Maryanne Lewis ,I,True,False
+737,3,Jim Sheets (I)  (4.0% of vote),"$47,940","$34,437","$13,502",10/13/2010,MA,10,Jim Sheets ,I,True,False
+738,0,Lisa McClain (R)  • Winner,"$2,266,287","$2,137,031","$123,256",12/31/2020,MI,10,Lisa McClain ,R,False,True
+739,1,Kimberly Bizon (D),"$41,438","$41,246","$24,582",12/31/2020,MI,10,Kimberly Bizon ,D,False,False
+740,0,Haley Stevens (D)  • Incumbent • Winner,"$5,776,924","$5,707,448","$84,994",12/31/2020,MI,11,Haley Stevens ,D,True,True
+741,1,Eric Esshaki (R),"$1,298,612","$1,291,509","$7,104",12/31/2020,MI,11,Eric Esshaki ,R,False,False
+742,0,Debbie Dingell (D)  • Incumbent • Winner,"$1,630,498","$1,689,582","$437,383",12/31/2020,MI,12,Debbie Dingell ,D,True,True
+743,1,Jeff Jones (R),"$10,616","$9,657","$1,513",12/31/2020,MI,12,Jeff Jones ,R,False,False
+744,0,Rashida Tlaib (D)  • Incumbent • Winner,"$4,014,411","$3,690,334","$391,732",12/31/2020,MI,13,Rashida Tlaib ,D,True,True
+745,1,Donald Eason (I),"$34,156","$34,156",$0,12/31/2020,MI,13,Donald Eason ,I,False,False
+747,1,Vance Patrick (R),"$39,670","$41,973","$8,890",11/23/2020,MI,14,Vance Patrick ,R,False,False
+748,0,John D Dingell (D)  • Incumbent • Winner (56.8% of vote),"$1,960,195","$2,790,616","$33,090",12/31/2010,MI,15,John D Dingell ,D,True,True
+749,1,Robert L Steele (R)  (40.1% of vote),"$1,059,929","$1,059,929",$0,12/31/2010,MI,15,Robert L Steele ,R,True,False
+750,0,Donald M Payne Jr. (D)  • Incumbent • Winner,"$593,735","$457,252","$181,272",12/31/2020,NJ,10,False,False,False,True
+751,0,Mikie Sherrill (D)  • Incumbent • Winner,"$6,419,707","$3,733,106","$3,131,721",12/31/2020,NJ,11,Mikie Sherrill ,D,True,True
+752,1,Rosemary Becchi (R),"$1,687,532","$1,686,236","$1,295",12/31/2020,NJ,11,Rosemary Becchi ,R,False,False
+754,1,Mark Razzoli (R),"$3,065","$1,142","$1,923",03/31/2020,NJ,12,Mark Razzoli ,R,False,False
+755,0,Albio Sires (D)  • Incumbent • Winner (74.1% of vote),"$657,768","$708,763","$157,019",12/31/2010,NJ,13,Albio Sires ,D,True,True
+756,1,Henrietta Dwyer (R)  (23.0% of vote),"$12,726",$73,$17,12/31/2010,NJ,13,Henrietta Dwyer ,R,True,False
+757,0,Jerrold Nadler (D)  • Incumbent • Winner,"$1,848,688","$1,950,774","$508,339",12/31/2020,NY,10,Jerrold Nadler ,D,True,True
+758,1,Cathy Bernstein (R),"$49,975","$28,384","$21,591",10/14/2020,NY,10,Cathy Bernstein ,R,False,False
+759,2,Jeanne Nigro (I),"$34,548","$28,039","$3,261",12/31/2020,NY,10,Jeanne Nigro ,I,False,False
+760,3,Michael Madrid (L),"$14,326","$12,149","$2,178",12/03/2020,NY,10,Michael Madrid ,L,False,False
+761,0,Max Rose (D)  • Incumbent,"$9,284,434","$9,499,242","$23,184",12/31/2020,NY,11,Max Rose ,D,True,True
+762,1,Nicole Malliotakis (R)  • Winner,"$3,469,995","$3,447,052","$22,943",12/31/2020,NY,11,Nicole Malliotakis ,R,False,False
+763,2,Kemi Akindude (I),"$21,261","$14,697",$624,12/31/2020,NY,11,Kemi Akindude ,I,False,False
+764,0,Carolyn B Maloney (D)  • Incumbent • Winner,"$3,067,173","$3,059,202","$116,416",12/31/2020,NY,12,Carolyn B Maloney ,D,True,True
+765,0,Adriano Espaillat (D)  • Incumbent • Winner,"$1,087,237","$1,252,740","$102,521",12/31/2020,NY,13,Adriano Espaillat ,D,True,True
+766,1,Lovelynn Gwinn (R),"$39,384","$39,384",$0,12/22/2020,NY,13,Lovelynn Gwinn ,R,False,False
+767,0,Alexandria Ocasio-Cortez (D)  • Incumbent • Winner,"$20,664,795","$16,735,422","$4,297,383",12/31/2020,NY,14,Alexandria Ocasio-Cortez ,D,True,True
+768,1,John C. Cummings (R),"$11,140,937","$10,947,758","$193,228",12/31/2020,NY,14,Cummings ,R,False,False
+769,0,Ritchie Torres (D)  • Winner,"$2,194,025","$1,804,336","$389,690",12/31/2020,NY,15,Ritchie Torres ,D,False,True
+770,0,Jamaal Bowman (D)  • Winner,"$2,878,898","$2,801,424","$77,474",12/31/2020,NY,16,Jamaal Bowman ,D,False,True
+771,0,Mondaire Jones (D)  • Winner,"$2,984,052","$2,186,463","$797,588",12/31/2020,NY,17,Mondaire Jones ,D,False,True
+772,1,Maureen McArdle Schulman (R),"$54,732","$60,084","-$5,327",12/31/2020,NY,17,Maureen McArdle Schulman ,R,False,False
+773,2,Michael Parietti (3),"$44,787","$19,670","$25,116",10/14/2020,NY,17,Michael Parietti ,3,False,False
+774,0,Sean Patrick Maloney (D)  • Incumbent • Winner,"$2,556,294","$1,718,525","$860,002",12/31/2020,NY,18,Sean Patrick Maloney ,D,True,True
+775,1,Chele Farley (R),"$1,186,211","$1,152,124","$34,086",12/31/2020,NY,18,Chele Farley ,R,False,False
+776,2,Scott Smith (I),"$8,718","$8,403",$495,12/31/2020,NY,18,Scott Smith ,I,False,False
+777,0,Antonio Delgado (D)  • Incumbent • Winner,"$5,949,475","$2,963,286","$3,064,789",12/31/2020,NY,19,Antonio Delgado ,D,True,True
+778,1,Kyle Van De Water (R),"$153,796","$120,097","$33,700",12/31/2020,NY,19,Van De Water ,R,False,False
+779,0,Paul Tonko (D)  • Incumbent • Winner,"$1,541,984","$1,418,994","$811,660",12/31/2020,NY,20,Paul Tonko ,D,True,True
+780,1,Elizabeth Joy (R),"$370,852","$336,845","$34,007",12/31/2020,NY,20,Elizabeth Joy ,R,False,False
+781,0,Elise Stefanik (R)  • Incumbent • Winner,"$13,287,248","$11,655,936","$1,983,541",12/31/2020,NY,21,Elise Stefanik ,R,True,True
+782,1,Tedra Cobb (D),"$5,586,793","$5,593,266","$32,848",12/31/2020,NY,21,Tedra Cobb ,D,False,False
+783,0,Anthony Brindisi (D)  • Incumbent,"$6,020,190","$5,772,429","$252,624",12/31/2020,NY,22,Anthony Brindisi ,D,True,True
+784,1,Claudia Tenney (R),"$3,051,777","$2,725,893","$402,867",12/31/2020,NY,22,Claudia Tenney ,R,False,False
+785,0,Tom Reed (R)  • Incumbent • Winner,"$3,275,177","$3,145,027","$182,389",12/31/2020,NY,23,Tom Reed ,R,True,True
+786,1,Tracy Mitrano (D),"$1,450,322","$1,466,128","$3,284",12/31/2020,NY,23,Tracy Mitrano ,D,False,False
+787,0,John Katko (R)  • Incumbent • Winner,"$3,821,107","$3,597,234","$272,061",12/31/2020,NY,24,John Katko ,R,True,True
+788,1,Dana Balter (D),"$3,212,469","$3,230,808","$5,647",12/31/2020,NY,24,Dana Balter ,D,False,False
+789,0,Joseph D Morelle (D)  • Incumbent • Winner,"$1,375,366","$1,274,426","$160,175",12/31/2020,NY,25,Joseph D Morelle ,D,True,True
+790,1,George Mitris (R),"$301,376","$279,047","$22,329",10/14/2020,NY,25,George Mitris ,R,False,False
+791,2,Kevin Wilson (L),"$5,128","$3,417","$1,711",10/14/2020,NY,25,Kevin Wilson ,L,False,False
+792,0,Brian M Higgins (D)  • Incumbent • Winner,"$1,124,168","$984,106","$1,111,052",12/31/2020,NY,26,Brian M Higgins ,D,True,True
+793,0,Chris Jacobs (R)  • Incumbent • Winner,"$2,147,101","$2,084,271","$62,829",12/31/2020,NY,27,Chris Jacobs ,R,True,True
+795,2,Duane Whitmer (L),"$36,056","$36,056",$0,12/31/2020,NY,27,Duane Whitmer ,L,False,False
+796,0,Louise M Slaughter (D)  • Incumbent • Winner (64.9% of vote),"$720,705","$843,659","$215,375",12/31/2010,NY,28,Louise M Slaughter ,D,True,True
+797,1,Jill Ann Rowland (R)  (35.1% of vote),"$26,595","$20,298",$0,12/01/2010,NY,28,Jill Ann Rowland ,R,True,False
+798,0,Tom Reed (R)  • Winner (56.6% of vote),"$1,081,565","$1,047,262","$34,303",12/31/2010,NY,29,Tom Reed ,R,True,True
+799,1,Matthew Zeller (D)  (43.4% of vote),"$457,738","$456,755",$982,12/31/2010,NY,29,Matthew Zeller ,D,True,False
+800,0,Patrick McHenry (R)  • Incumbent • Winner,"$2,780,234","$2,339,363","$1,706,970",12/31/2020,NC,10,Patrick McHenry ,R,True,True
+801,1,David Parker (D),"$30,555","$30,555",$0,12/31/2020,NC,10,David Parker ,D,False,False
+802,0,Madison Cawthorn (R)  • Winner,"$4,478,970","$4,366,783","$112,186",12/31/2020,NC,11,Madison Cawthorn ,R,False,True
+803,1,Moe Davis (D),"$2,251,413","$2,148,121","$103,292",12/31/2020,NC,11,Moe Davis ,D,False,False
+804,0,Alma Adams (D)  • Incumbent • Winner,"$824,124","$651,883","$346,673",12/31/2020,NC,12,Alma Adams ,D,True,True
+805,1,Bill Brewster (R),"$21,950","$16,763","$5,187",09/30/2019,NC,12,Bill Brewster ,R,False,False
+806,0,Ted Budd (R)  • Incumbent • Winner,"$2,294,174","$1,293,414","$1,070,999",12/31/2020,NC,13,Ted Budd ,R,True,True
+807,1,Scott Huffman (D),"$193,334","$189,967","$4,634",12/31/2020,NC,13,Scott Huffman ,D,False,False
+808,0,Michael R Turner (R)  • Incumbent • Winner,"$1,752,255","$1,736,283","$77,206",12/31/2020,OH,10,Michael R Turner ,R,True,True
+809,1,Desiree Tims (D),"$2,040,760","$2,024,010","$16,750",12/31/2020,OH,10,Desiree Tims ,D,False,False
+810,0,Marcia Fudge (D)  • Incumbent • Winner,"$755,787","$499,820","$1,179,553",12/31/2020,OH,11,Marcia Fudge ,D,True,True
+811,1,Laverne Gore (R),"$157,044","$156,827",$218,12/31/2020,OH,11,Laverne Gore ,R,False,False
+812,0,Troy Balderson (R)  • Incumbent • Winner,"$2,016,826","$1,995,665","$43,050",12/31/2020,OH,12,Troy Balderson ,R,True,True
+813,1,Alaina Shearer (D),"$1,033,711","$1,025,410","$8,301",12/31/2020,OH,12,Alaina Shearer ,D,False,False
+814,2,John Stewart (L),"$75,170","$66,382","-$9,960",11/23/2020,OH,12,John Stewart ,L,False,False
+815,0,Tim Ryan (D)  • Incumbent • Winner,"$1,972,446","$2,071,454","$19,187",12/31/2020,OH,13,Tim Ryan ,D,True,True
+816,1,Christina Hagan (R),"$861,723","$820,660","$41,393",12/31/2020,OH,13,Christina Hagan ,R,False,False
+817,0,David P Joyce (R)  • Incumbent • Winner,"$2,917,696","$2,501,449","$666,492",12/31/2020,OH,14,David P Joyce ,R,True,True
+818,1,Hillary O'Connor Mueri (D),"$579,877","$574,646","$5,231",12/31/2020,OH,14,Connor Mueri ,D,False,False
+819,0,Steve Stivers (R)  • Incumbent • Winner,"$3,004,799","$2,293,101","$1,121,863",12/31/2020,OH,15,Steve Stivers ,R,True,True
+820,1,Joel Newby (D),"$55,797","$55,797",$0,12/31/2020,OH,15,Joel Newby ,D,False,False
+822,1,Aaron Godfrey (D),"$60,294","$60,430",$476,12/31/2020,OH,16,Aaron Godfrey ,D,False,False
+823,0,Tim Ryan (D)  • Incumbent • Winner (53.9% of vote),"$1,071,074","$1,224,705","$117,887",12/31/2010,OH,17,Tim Ryan ,D,True,True
+824,1,James J Graham (R)  (30.1% of vote),"$71,053","$71,052",$1,12/31/2010,OH,17,James J Graham ,R,True,False
+825,0,Zack Space (D)  • Incumbent (40.5% of vote),"$2,687,568","$2,932,436","$6,298",12/31/2010,OH,18,Zack Space ,D,True,True
+826,1,Bob Gibbs (R)  • Winner (53.9% of vote),"$1,123,244","$1,090,872","$32,370",12/31/2010,OH,18,Bob Gibbs ,R,True,False
+827,0,Scott Perry (R)  • Incumbent,"$3,956,481","$3,839,197","$171,329",12/31/2020,PA,10,Scott Perry ,R,True,True
+828,1,Eugene DePasquale (D),"$4,534,580","$4,526,684","$7,896",12/31/2020,PA,10,Eugene DePasquale ,D,False,False
+829,0,Lloyd Smucker (R)  • Incumbent • Winner,"$1,349,318","$662,704","$696,775",12/31/2020,PA,11,Lloyd Smucker ,R,True,True
+830,1,Sarah Hammond (D),"$28,733","$23,458","$5,287",12/31/2020,PA,11,Sarah Hammond ,D,False,False
+831,0,Fred Keller (R)  • Incumbent • Winner,"$1,541,938","$1,066,158","$475,779",12/31/2020,PA,12,Fred Keller ,R,True,True
+832,1,Lee Griffin (D),"$45,850","$44,571","$1,279",12/31/2020,PA,12,Lee Griffin ,D,False,False
+833,2,Liz Terwilliger (L),"$6,211","$5,937","$3,121",12/31/2020,PA,12,Liz Terwilliger ,L,False,False
+834,0,John Joyce (R)  • Incumbent • Winner,"$1,119,769","$461,229","$718,883",12/31/2020,PA,13,John Joyce ,R,True,True
+835,1,Todd Rowley (D),"$60,348","$67,527",$253,12/31/2020,PA,13,Todd Rowley ,D,False,False
+836,0,Guy Reschenthaler (R)  • Incumbent • Winner,"$2,250,282","$1,580,488","$687,580",12/31/2020,PA,14,Guy Reschenthaler ,R,True,True
+837,1,Bill Marx (D),"$60,403","$45,959","$14,444",12/31/2020,PA,14,Bill Marx ,D,False,False
+838,0,Glenn Thompson (R)  • Incumbent • Winner,"$1,700,061","$1,839,073","$93,177",12/31/2020,PA,15,Glenn Thompson ,R,True,True
+839,0,Mike Kelly (R)  • Incumbent • Winner,"$2,239,488","$1,319,340","$958,525",12/31/2020,PA,16,Mike Kelly ,R,True,True
+840,1,Kristy Gnibus (D),"$584,205","$579,453","$4,751",12/31/2020,PA,16,Kristy Gnibus ,D,False,False
+841,0,Conor Lamb (D)  • Incumbent • Winner,"$4,063,114","$3,448,850","$852,818",12/31/2020,PA,17,Conor Lamb ,D,True,True
+842,1,Sean Parnell (R),"$3,935,774","$3,732,399","$203,375",12/31/2020,PA,17,Sean Parnell ,R,False,False
+844,1,Luke Negron (R),"$57,714","$51,666","$6,048",12/31/2020,PA,18,Luke Negron ,R,False,False
+845,0,Todd Platts (R)  • Incumbent • Winner (71.9% of vote),"$218,611","$250,797","$18,392",12/31/2010,PA,19,Todd Platts ,R,True,True
+846,1,Ryan Sanders (D)  (23.3% of vote),"$30,148","$28,498",$0,12/31/2010,PA,19,Ryan Sanders ,D,True,False
+847,2,Joshua A Monighan (I)  (0.0% of vote),"$3,662","$3,650",$11,12/31/2010,PA,19,Joshua A Monighan ,I,True,False
+848,0,Michael McCaul (R)  • Incumbent • Winner,"$3,856,477","$3,910,930","$7,734",12/31/2020,TX,10,Michael McCaul ,R,True,True
+849,1,Mike Siegel (D),"$2,873,926","$2,829,765","$47,652",12/31/2020,TX,10,Mike Siegel ,D,False,False
+850,0,August Pfluger (R)  • Winner,"$2,578,540","$1,984,134","$594,406",12/31/2020,TX,11,August Pfluger ,R,False,True
+851,1,Jon Mark Hogg (D),"$137,730","$135,141","$2,589",12/31/2020,TX,11,Jon Mark Hogg ,D,False,False
+852,0,Kay Granger (R)  • Incumbent • Winner,"$3,161,288","$3,271,815","$310,674",12/31/2020,TX,12,Kay Granger ,R,True,True
+853,1,Lisa Welch (D),"$98,465","$98,475",-$10,12/31/2020,TX,12,Lisa Welch ,D,False,False
+854,2,Trey Holcomb (L),$967,$457,$510,06/30/2020,TX,12,Trey Holcomb ,L,False,False
+855,0,Ronny Jackson (R)  • Winner,"$2,128,271","$1,741,132","$387,139",12/31/2020,TX,13,Ronny Jackson ,R,False,True
+856,1,Gus Trujillo (D),"$22,826","$18,820","$4,006",11/23/2020,TX,13,Gus Trujillo ,D,False,False
+857,0,Randy Weber (R)  • Incumbent • Winner,"$936,202","$924,659","$471,407",12/31/2020,TX,14,Randy Weber ,R,True,True
+858,1,Adrienne Bell (D),"$244,754","$240,934","$8,921",12/31/2020,TX,14,Adrienne Bell ,D,False,False
+859,2,Cyrus Sajna (I),"$35,096","$34,942",$609,09/30/2020,TX,14,Cyrus Sajna ,I,False,False
+860,3,Michael David Sanchez (I),$100,$12,$88,09/30/2020,TX,14,Michael David Sanchez ,I,False,False
+861,0,Vicente Gonzalez (D)  • Incumbent • Winner,"$1,008,381","$657,500","$1,371,492",12/31/2020,TX,15,Vicente Gonzalez ,D,True,True
+862,1,Monica De La Cruz Hernandez (R),"$344,893","$338,832","$7,506",12/31/2020,TX,15,La Cruz Hernandez ,R,False,False
+863,0,Veronica Escobar (D)  • Incumbent • Winner,"$1,135,549","$1,087,693","$284,855",12/31/2020,TX,16,Veronica Escobar ,D,True,True
+864,1,Irene Armendariz-Jackson (R),"$168,997","$153,671","$16,242",12/31/2020,TX,16,Irene Armendariz-Jackson ,R,False,False
+865,0,Pete Sessions (R)  • Winner,"$1,447,958","$1,658,637","$165,990",12/31/2020,TX,17,Pete Sessions ,R,False,True
+866,1,Rick Kennedy (D),"$200,668","$202,096",$0,11/23/2020,TX,17,Rick Kennedy ,D,False,False
+867,2,Ted Brown (L),"$3,041","$3,041",$0,12/29/2020,TX,17,Ted Brown ,L,False,False
+868,0,Sheila Jackson Lee (D)  • Incumbent • Winner,"$924,480","$838,414","$167,820",12/31/2020,TX,18,Sheila Jackson Lee ,D,True,True
+869,1,Wendell Champion (R),"$305,645","$271,278","$34,367",11/23/2020,TX,18,Wendell Champion ,R,False,False
+870,0,Jodey Arrington (R)  • Incumbent • Winner,"$2,497,184","$1,932,700","$1,099,354",12/31/2020,TX,19,Jodey Arrington ,R,True,True
+871,1,Tom Watson (D),"$49,405","$60,806","-$20,984",12/31/2020,TX,19,Tom Watson ,D,False,False
+872,0,Joaquin Castro (D)  • Incumbent • Winner,"$674,061","$686,934","$115,747",12/31/2020,TX,20,Joaquin Castro ,D,True,True
+873,1,Mauro Garza (R),"$263,293","$240,930","$45,852",12/31/2020,TX,20,Mauro Garza ,R,False,False
+874,0,Chip Roy (R)  • Incumbent • Winner,"$5,005,639","$4,679,362","$463,583",12/31/2020,TX,21,Chip Roy ,R,True,True
+875,1,Wendy Davis (D),"$10,263,486","$10,201,874","$61,611",12/31/2020,TX,21,Wendy Davis ,D,False,False
+876,2,Michael Felts (I),"$3,570","$1,851","$3,354",06/30/2019,TX,21,Michael Felts ,I,False,False
+877,0,Sri Kulkarni (D),"$5,639,061","$5,630,098","$36,731",12/31/2020,TX,22,Sri Kulkarni ,D,False,True
+878,1,Troy Nehls (R)  • Winner,"$1,806,655","$1,787,448","$24,807",12/31/2020,TX,22,Troy Nehls ,R,False,False
+879,0,Gina Ortiz Jones (D),"$6,755,222","$6,842,440","$4,301",12/31/2020,TX,23,Gina Ortiz Jones ,D,False,True
+880,1,Tony Gonzales (R)  • Winner,"$2,797,133","$2,764,108","$33,026",12/31/2020,TX,23,Tony Gonzales ,R,False,False
+881,0,Candace Valenzuela (D),"$4,886,999","$4,875,031","$11,967",12/31/2020,TX,24,Candace Valenzuela ,D,False,True
+882,1,Beth Van Duyne (R)  • Winner,"$3,410,852","$3,342,442","$68,410",12/31/2020,TX,24,Beth Van Duyne ,R,False,False
+883,2,Stephen Kuzmich (I),"$175,504","$201,332","$2,073",12/10/2020,TX,24,Stephen Kuzmich ,I,False,False
+884,3,Mark Bauer (I),"$26,342","$26,542",-$200,12/31/2020,TX,24,Mark Bauer ,I,False,False
+885,4,Darren Hamilton (L),$570,$212,$358,11/23/2020,TX,24,Darren Hamilton ,L,False,False
+886,0,Roger Williams (R)  • Incumbent • Winner,"$2,435,121","$3,347,267","$11,542",12/31/2020,TX,25,Roger Williams ,R,True,True
+887,1,Julie Oliver (D),"$2,190,347","$2,176,319","$14,028",12/31/2020,TX,25,Julie Oliver ,D,False,False
+888,0,Michael Burgess (R)  • Incumbent • Winner,"$1,806,588","$2,081,391","$142,497",12/31/2020,TX,26,Michael Burgess ,R,True,True
+889,1,Carol Iannuzzi (D),"$95,937","$95,937",$0,12/31/2020,TX,26,Carol Iannuzzi ,D,False,False
+890,0,Michael Cloud (R)  • Incumbent • Winner,"$1,014,427","$829,748","$242,372",12/31/2020,TX,27,Michael Cloud ,R,True,True
+891,1,Ricardo De La Fuente (D),"$312,096","$312,096",$0,12/10/2020,TX,27,De La Fuente ,D,False,False
+892,0,Henry Cuellar (D)  • Incumbent • Winner,"$2,655,317","$3,650,848","$1,550,473",12/31/2020,TX,28,Henry Cuellar ,D,True,True
+893,1,Sandra Whitten (R),"$24,760","$27,354","-$1,770",12/31/2020,TX,28,Sandra Whitten ,R,False,False
+894,0,Sylvia Garcia (D)  • Incumbent • Winner,"$818,984","$758,382","$247,599",12/31/2020,TX,29,Sylvia Garcia ,D,True,True
+895,1,Jaimy Blanco (R),"$4,378",$0,"$4,378",09/30/2020,TX,29,Jaimy Blanco ,R,False,False
+896,0,Eddie Bernice Johnson (D)  • Incumbent • Winner,"$589,096","$494,547","$415,685",12/31/2020,TX,30,Eddie Bernice Johnson ,D,True,True
+897,1,Demetrick Pennie (R),"$311,109","$305,446","$5,663",12/31/2020,TX,30,Demetrick Pennie ,R,False,False
+898,0,John Carter (R)  • Incumbent • Winner,"$2,160,187","$2,214,487","$200,406",12/31/2020,TX,31,John Carter ,R,True,True
+899,1,Donna Imam (D),"$1,035,222","$1,035,272",-$50,12/31/2020,TX,31,Donna Imam ,D,False,False
+900,0,Colin Allred (D)  • Incumbent • Winner,"$5,667,725","$5,611,747","$159,422",12/31/2020,TX,32,Colin Allred ,D,True,True
+901,1,Genevieve Collins (R),"$5,923,081","$5,915,256","$7,825",12/31/2020,TX,32,Genevieve Collins ,R,False,False
+902,2,Jason Sigmon (I),"$11,791","$11,651",$154,12/31/2020,TX,32,Jason Sigmon ,I,False,False
+903,0,Marc Veasey (D)  • Incumbent • Winner,"$1,621,929","$1,613,446","$468,344",12/31/2020,TX,33,Marc Veasey ,D,True,True
+904,1,Fabian Cordova Vasquez (R),"$36,692","$25,585","$11,107",11/23/2020,TX,33,Fabian Cordova Vasquez ,R,False,False
+905,0,Filemon Vela (D)  • Incumbent • Winner,"$983,026","$1,024,180","$564,720",12/31/2020,TX,34,Filemon Vela ,D,True,True
+906,1,Rey Gonzalez (R),"$37,118","$37,446","-$2,950",12/31/2020,TX,34,Rey Gonzalez ,R,False,False
+907,0,Lloyd Doggett (D)  • Incumbent • Winner,"$1,336,576","$424,804","$5,205,475",12/31/2020,TX,35,Lloyd Doggett ,D,True,True
+908,1,Jennifer Sharon (R),"$19,011","$14,442","$4,569",12/31/2020,TX,35,Jennifer Sharon ,R,False,False
+909,2,Jason Mata (I),"$2,632","$2,632",$0,11/03/2020,TX,35,Jason Mata ,I,False,False
+910,0,Brian Babin (R)  • Incumbent • Winner,"$1,345,351","$1,297,185","$785,081",12/31/2020,TX,36,Brian Babin ,R,True,True
+911,1,Brandon Rashad Lewis (D),"$21,714","$12,278","$10,813",12/04/2020,TX,36,Brandon Rashad Lewis ,D,False,False
+912,0,Jennifer Wexton (D)  • Incumbent • Winner,"$3,855,331","$1,772,250","$2,140,698",12/31/2020,VA,10,Jennifer Wexton ,D,True,True
+913,1,Aliscia Andrews (R),"$1,567,598","$1,413,145","$158,052",12/31/2020,VA,10,Aliscia Andrews ,R,False,False
+914,0,Gerry Connolly (D)  • Incumbent • Winner,"$1,998,592","$1,811,776","$2,891,921",12/31/2020,VA,11,Gerry Connolly ,D,True,True
+915,1,Manga Anantatmula (R),"$282,152","$268,326","$13,826",12/31/2020,VA,11,Manga Anantatmula ,R,False,False
+916,2,Stevan Porter (L),$533,"$1,316",$149,12/31/2020,VA,11,Stevan Porter ,L,False,False
+917,0,Marilyn Strickland (D)  • Winner,"$1,812,659","$1,780,633","$32,026",12/31/2020,WA,10,Marilyn Strickland ,D,False,True
+918,1,Beth Doglio (D),"$1,477,678","$1,477,678",$0,12/31/2020,WA,10,Beth Doglio ,D,False,False
